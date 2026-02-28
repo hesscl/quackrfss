@@ -1,11 +1,11 @@
-# quackrfss
+# 🦆 quackrfss
 
 BRFSS survey data → DuckDB. Clone, run one command, start analyzing.
 
 No manual downloads. No SAS. No hours of prep.
 
 ```bash
-git clone https://github.com/yourname/quackrfss
+git clone https://github.com/hesscl/quackrfss
 cd quackrfss
 pip install uv && uv sync
 quackrfss                  # builds brfss.duckdb with 2017–2024 data (~3.5M respondents)
@@ -13,7 +13,7 @@ quackrfss                  # builds brfss.duckdb with 2017–2024 data (~3.5M re
 
 ---
 
-## What it does
+## ✨ What it does
 
 Downloads CDC [Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/annual_data/annual_data.htm) data, converts it from SAS Transport (XPT) to Parquet, and builds a DuckDB database you can query instantly:
 
@@ -28,7 +28,7 @@ Every categorical variable gets a `*_lbl` companion column baked into the Parque
 
 ---
 
-## Quickstart
+## 🚀 Quickstart
 
 ```bash
 # Install dependencies (Python 3.11+)
@@ -77,7 +77,7 @@ D SELECT GENHLTH_lbl, COUNT(*) FROM brfss_2024 GROUP BY 1 ORDER BY 2 DESC;
 
 ---
 
-## Pipeline stages
+## 🔧 Pipeline stages
 
 ```
 download  →  parse_layout + parse_formats  →  load  →  schema
@@ -97,7 +97,7 @@ python -m scripts.schema                        # (re)builds brfss.duckdb
 
 ---
 
-## Metadata lookup
+## 🔍 Metadata lookup
 
 ```sql
 -- What does a variable name mean?
@@ -112,7 +112,7 @@ SELECT DISTINCT var, label FROM variable_labels WHERE lower(label) LIKE '%diabet
 
 ---
 
-## Survey weights
+## ⚖️ Survey weights
 
 BRFSS uses complex sampling. For population-level estimates always use `_LLCPWT`:
 
@@ -127,7 +127,7 @@ df = con.execute("""
 
 ---
 
-## Storage
+## 💾 Storage
 
 | Artifact | Approx. size |
 |---|---|
@@ -139,7 +139,7 @@ df = con.execute("""
 
 ---
 
-## Notes on specific years
+## 📝 Notes on specific years
 
 - **2020**: COVID-19 forced telephone-only collection and a lower response rate. The `brfss_2020` view is included; treat cross-year comparisons carefully.
 - **Variable drift**: Variables are added and dropped year to year. The unified `brfss` view fills gaps with NULL. Use `variable_labels` to check which years a given variable appears in.
@@ -147,7 +147,7 @@ df = con.execute("""
 
 ---
 
-## Dependencies
+## 📦 Dependencies
 
 | Package | Purpose |
 |---|---|
@@ -163,7 +163,7 @@ Dev extras (for notebooks): `uv sync --extra dev`
 
 ---
 
-## Roadmap
+## 🗺️ Roadmap
 
 ### Phase 1 — 2011–2016 (next up)
 
@@ -203,6 +203,6 @@ The early years used SAS data step files rather than XPT and have very different
 
 ---
 
-## License
+## 📄 License
 
 Pipeline code: MIT. BRFSS data is public domain (CDC / US Government).

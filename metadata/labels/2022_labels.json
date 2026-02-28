@@ -1,0 +1,2843 @@
+{
+  "ACE1HURT": {
+    "1": "Never",
+    "2": "Once",
+    "3": "More than once",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ACEADNED": {
+    "1": "Never",
+    "2": "A little of the time",
+    "3": "Some of the time",
+    "4": "Most of the time",
+    "5": "All of the time",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "ACEADSAF": {
+    "1": "Never",
+    "2": "A little of the time",
+    "3": "Some of the time",
+    "4": "Most of the time",
+    "5": "All of the time",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "ACEDEPRS": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ACEDIVRC": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "8": "Parents not married",
+    "9": "Refused"
+  },
+  "ACEDRINK": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ACEDRUGS": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ACEHVSEX": {
+    "1": "Never",
+    "2": "Once",
+    "3": "More than once",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ACEPRISN": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ACEPUNCH": {
+    "1": "Never",
+    "2": "Once",
+    "3": "More than once",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ACESWEAR": {
+    "1": "Never",
+    "2": "Once",
+    "3": "More than once",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ACETOUCH": {
+    "1": "Never",
+    "2": "Once",
+    "3": "More than once",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ACETTHEM": {
+    "1": "Never",
+    "2": "Once",
+    "3": "More than once",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "AD3DEPEV": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "ADLTCHLD": {
+    "0": "No selection",
+    "1": "Adult",
+    "2": "Child"
+  },
+  "AGE": {
+    "18": "Age 18 - 24",
+    "19": "Age 18 - 24",
+    "20": "Age 18 - 24",
+    "21": "Age 18 - 24",
+    "22": "Age 18 - 24",
+    "23": "Age 18 - 24",
+    "24": "Age 18 - 24",
+    "25": "Age 25 - 34",
+    "26": "Age 25 - 34",
+    "27": "Age 25 - 34",
+    "28": "Age 25 - 34",
+    "29": "Age 25 - 34",
+    "30": "Age 25 - 34",
+    "31": "Age 25 - 34",
+    "32": "Age 25 - 34",
+    "33": "Age 25 - 34",
+    "34": "Age 25 - 34",
+    "35": "Age 35 - 44",
+    "36": "Age 35 - 44",
+    "37": "Age 35 - 44",
+    "38": "Age 35 - 44",
+    "39": "Age 35 - 44",
+    "40": "Age 35 - 44",
+    "41": "Age 35 - 44",
+    "42": "Age 35 - 44",
+    "43": "Age 35 - 44",
+    "44": "Age 35 - 44",
+    "45": "Age 45 - 54",
+    "46": "Age 45 - 54",
+    "47": "Age 45 - 54",
+    "48": "Age 45 - 54",
+    "49": "Age 45 - 54",
+    "50": "Age 45 - 54",
+    "51": "Age 45 - 54",
+    "52": "Age 45 - 54",
+    "53": "Age 45 - 54",
+    "54": "Age 45 - 54",
+    "55": "Age 55 - 64",
+    "56": "Age 55 - 64",
+    "57": "Age 55 - 64",
+    "58": "Age 55 - 64",
+    "59": "Age 55 - 64",
+    "60": "Age 55 - 64",
+    "61": "Age 55 - 64",
+    "62": "Age 55 - 64",
+    "63": "Age 55 - 64",
+    "64": "Age 55 - 64",
+    "65      - 99": "Age 65 or older",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "ALC4DAY": {
+    "101     - 199": "Days per week",
+    "201     - 299": "Days in past 30 days",
+    "777": "Don\u0092t know/Not sure",
+    "888": "No drinks in past 30 days",
+    "999": "Refused"
+  },
+  "ASBIADVC": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ASBIALCH": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ASBIBING": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ASBIDRNK": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ASBIRDUC": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "AST3HMA": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "ASTHNOW": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "AVE3DRNK": {
+    "1       - 76": "Number of drinks",
+    "77": "Don\u0092t know/Not sure",
+    "78": "Number of drinks",
+    "79": "Number of drinks",
+    "80": "Number of drinks",
+    "81": "Number of drinks",
+    "82": "Number of drinks",
+    "83": "Number of drinks",
+    "84": "Number of drinks",
+    "85": "Number of drinks",
+    "86": "Number of drinks",
+    "87": "Number of drinks",
+    "88": "None",
+    "89": "Number of drinks",
+    "90": "Number of drinks",
+    "91": "Number of drinks",
+    "92": "Number of drinks",
+    "93": "Number of drinks",
+    "94": "Number of drinks",
+    "95": "Number of drinks",
+    "96": "Number of drinks",
+    "97": "Number of drinks",
+    "98": "Number of drinks",
+    "99": "Refused"
+  },
+  "BCPREFER": {
+    "1": "Female sterilization (Tubal ligation, Essure, or Adiana)",
+    "10": "Withdrawal or pulling out",
+    "11": "Emergency contraception or the morning after pill (Plan B or ella)",
+    "12": "Other method",
+    "13": "I am using the method that I want to use",
+    "14": "I don\u00b4t want to use any method",
+    "2": "Male sterilization (vasectomy)",
+    "3": "Contraceptive implant",
+    "4": "Intrauterine device or IUD (Mirena, Levonorgestrel, ParaGard)",
+    "5": "Shots (Depo-Provera)",
+    "6": "Birth control pills, Contraceptive Ring (NuvaRing), Contraceptive patch (Ortho Evra)",
+    "7": "Condoms (male or female)",
+    "77": "Don\u0092t know/Not sure",
+    "8": "Diaphragm, cervical cap, sponge, foam, jelly, film, or cream",
+    "9": "Having sex at a time when less likely to get pregnant (rhythm or natural family planning)",
+    "99": "Refused"
+  },
+  "BIRTHSEX": {
+    "1": "Male",
+    "2": "Female",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "BLDSTFIT": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "BLIND": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "BRTH4CNT": {
+    "0": "Nothing else",
+    "1": "Female sterilization (Tubal ligation, Essure, or Adiana)",
+    "10": "Withdrawal or pulling out",
+    "11": "Emergency contraception or the morning after pill (Plan B or ella)",
+    "12": "Other method",
+    "2": "Male sterilization (vasectomy)",
+    "3": "Contraceptive implant",
+    "4": "Intrauterine device or IUD (Mirena, Levonorgestrel, ParaGard)",
+    "5": "Shots (Depo-Provera)",
+    "6": "Birth control pills, Contraceptive Ring (NuvaRing), Contraceptive patch (Ortho Evra)",
+    "7": "Condoms (male or female)",
+    "77": "Don\u0092t know/Not sure",
+    "8": "Diaphragm, cervical cap, sponge, foam, jelly, film, or cream",
+    "9": "Had sex at a time when less likely to get pregnant (rhythm or natural family planning)",
+    "99": "Refused"
+  },
+  "C1ADULT": {
+    "1": "Yes",
+    "2": "No"
+  },
+  "C1STATE": {
+    "1": "Yes",
+    "2": "No"
+  },
+  "CAGEG": {
+    "1": "0 months to < 5 years of age",
+    "2": "5 to < 10 years of age",
+    "3": "10 to < 15 years of age",
+    "4": "15 to < 18 years of age"
+  },
+  "CALLBACK": {
+    "1": "Yes",
+    "2": "No"
+  },
+  "CARE1GIV": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "8": "Caregiving recipient died in past 30 days",
+    "9": "Refused"
+  },
+  "CASTH2DX": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CASTH2NO": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CCLGHOUS": {
+    "1": "Yes",
+    "2": "No"
+  },
+  "CDASSIST": {
+    "1": "Always",
+    "2": "Usually",
+    "3": "Sometimes",
+    "4": "Rarely",
+    "5": "Never",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CDDISCUS": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CDHELP": {
+    "1": "Always",
+    "2": "Usually",
+    "3": "Sometimes",
+    "4": "Rarely",
+    "5": "Never",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CDHOUSE": {
+    "1": "Always",
+    "2": "Usually",
+    "3": "Sometimes",
+    "4": "Rarely",
+    "5": "Never",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CDSOCIAL": {
+    "1": "Always",
+    "2": "Usually",
+    "3": "Sometimes",
+    "4": "Rarely",
+    "5": "Never",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CEL1PHON": {
+    "1": "Yes, it is a cell phone",
+    "2": "Not a cell phone"
+  },
+  "CELL1SEX": {
+    "1": "Male",
+    "2": "Female",
+    "3": "Nonbinary",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CELL5FON": {
+    "1": "Yes",
+    "2": "No"
+  },
+  "CERVSCRN": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CHC1OCNC": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know / Not sure",
+    "9": "Refused"
+  },
+  "CHC1SCNC": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know / Not sure",
+    "9": "Refused"
+  },
+  "CHC2KDNY": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know / Not sure",
+    "9": "Refused"
+  },
+  "CHC3COPD": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know / Not sure",
+    "9": "Refused"
+  },
+  "CHECK1UP": {
+    "1": "Within past year (anytime less than 12 months ago)",
+    "2": "Within past 2 years (1 year but less than 2 years ago)",
+    "3": "Within past 5 years (2 years but less than 5 years ago)",
+    "4": "5 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "8": "Never",
+    "9": "Refused"
+  },
+  "CHILDAGE": {
+    "0": "0 Years old",
+    "1": "0 Years old",
+    "10": "0 Years old",
+    "100": "8 Years old",
+    "101": "8 Years old",
+    "102": "8 Years old",
+    "103": "8 Years old",
+    "104": "8 Years old",
+    "105": "8 Years old",
+    "106": "8 Years old",
+    "107": "8 Years old",
+    "108": "9 Years old",
+    "109": "9 Years old",
+    "11": "0 Years old",
+    "110": "9 Years old",
+    "111": "9 Years old",
+    "112": "9 Years old",
+    "113": "9 Years old",
+    "114": "9 Years old",
+    "115": "9 Years old",
+    "116": "9 Years old",
+    "117": "9 Years old",
+    "118": "9 Years old",
+    "119": "9 Years old",
+    "12": "1 Year old",
+    "120": "10 Years old",
+    "121": "10 Years old",
+    "122": "10 Years old",
+    "123": "10 Years old",
+    "124": "10 Years old",
+    "125": "10 Years old",
+    "126": "10 Years old",
+    "127": "10 Years old",
+    "128": "10 Years old",
+    "129": "10 Years old",
+    "13": "1 Year old",
+    "130": "10 Years old",
+    "131": "10 Years old",
+    "132": "11 Years old",
+    "133": "11 Years old",
+    "134": "11 Years old",
+    "135": "11 Years old",
+    "136": "11 Years old",
+    "137": "11 Years old",
+    "138": "11 Years old",
+    "139": "11 Years old",
+    "14": "1 Year old",
+    "140": "11 Years old",
+    "141": "11 Years old",
+    "142": "11 Years old",
+    "143": "11 Years old",
+    "144": "12 Years old",
+    "145": "12 Years old",
+    "146": "12 Years old",
+    "147": "12 Years old",
+    "148": "12 Years old",
+    "149": "12 Years old",
+    "15": "1 Year old",
+    "150": "12 Years old",
+    "151": "12 Years old",
+    "152": "12 Years old",
+    "153": "12 Years old",
+    "154": "12 Years old",
+    "155": "12 Years old",
+    "156": "13 Years old",
+    "157": "13 Years old",
+    "158": "13 Years old",
+    "159": "13 Years old",
+    "16": "1 Year old",
+    "160": "13 Years old",
+    "161": "13 Years old",
+    "162": "13 Years old",
+    "163": "13 Years old",
+    "164": "13 Years old",
+    "165": "13 Years old",
+    "166": "13 Years old",
+    "167": "13 Years old",
+    "168": "14 Years old",
+    "169": "14 Years old",
+    "17": "1 Year old",
+    "170": "14 Years old",
+    "171": "14 Years old",
+    "172": "14 Years old",
+    "173": "14 Years old",
+    "174": "14 Years old",
+    "175": "14 Years old",
+    "176": "14 Years old",
+    "177": "14 Years old",
+    "178": "14 Years old",
+    "179": "14 Years old",
+    "18": "1 Year old",
+    "180": "15 Years old",
+    "181": "15 Years old",
+    "182": "15 Years old",
+    "183": "15 Years old",
+    "184": "15 Years old",
+    "185": "15 Years old",
+    "186": "15 Years old",
+    "187": "15 Years old",
+    "188": "15 Years old",
+    "189": "15 Years old",
+    "19": "1 Year old",
+    "190": "15 Years old",
+    "191": "15 Years old",
+    "192": "16 Years old",
+    "193": "16 Years old",
+    "194": "16 Years old",
+    "195": "16 Years old",
+    "196": "16 Years old",
+    "197": "16 Years old",
+    "198": "16 Years old",
+    "199": "16 Years old",
+    "2": "0 Years old",
+    "20": "1 Year old",
+    "200": "16 Years old",
+    "201": "16 Years old",
+    "202": "16 Years old",
+    "203": "16 Years old",
+    "204": "17 Years old",
+    "205": "17 Years old",
+    "206": "17 Years old",
+    "207": "17 Years old",
+    "208": "17 Years old",
+    "209": "17 Years old",
+    "21": "1 Year old",
+    "210": "17 Years old",
+    "211": "17 Years old",
+    "212": "17 Years old",
+    "213": "17 Years old",
+    "214": "17 Years old",
+    "215": "17 Years old",
+    "22": "1 Year old",
+    "23": "1 Year old",
+    "24": "2 Years old",
+    "25": "2 Years old",
+    "26": "2 Years old",
+    "27": "2 Years old",
+    "28": "2 Years old",
+    "29": "2 Years old",
+    "3": "0 Years old",
+    "30": "2 Years old",
+    "31": "2 Years old",
+    "32": "2 Years old",
+    "33": "2 Years old",
+    "34": "2 Years old",
+    "35": "2 Years old",
+    "36": "3 Years old",
+    "37": "3 Years old",
+    "38": "3 Years old",
+    "39": "3 Years old",
+    "4": "0 Years old",
+    "40": "3 Years old",
+    "41": "3 Years old",
+    "42": "3 Years old",
+    "43": "3 Years old",
+    "44": "3 Years old",
+    "45": "3 Years old",
+    "46": "3 Years old",
+    "47": "3 Years old",
+    "48": "4 Years old",
+    "49": "4 Years old",
+    "5": "0 Years old",
+    "50": "4 Years old",
+    "51": "4 Years old",
+    "52": "4 Years old",
+    "53": "4 Years old",
+    "54": "4 Years old",
+    "55": "4 Years old",
+    "56": "4 Years old",
+    "57": "4 Years old",
+    "58": "4 Years old",
+    "59": "4 Years old",
+    "6": "0 Years old",
+    "60": "5 Years old",
+    "61": "5 Years old",
+    "62": "5 Years old",
+    "63": "5 Years old",
+    "64": "5 Years old",
+    "65": "5 Years old",
+    "66": "5 Years old",
+    "67": "5 Years old",
+    "68": "5 Years old",
+    "69": "5 Years old",
+    "7": "0 Years old",
+    "70": "5 Years old",
+    "71": "5 Years old",
+    "72": "6 Years old",
+    "73": "6 Years old",
+    "74": "6 Years old",
+    "75": "6 Years old",
+    "76": "6 Years old",
+    "77": "6 Years old",
+    "777": "Don\u0092t know / Not sure",
+    "78": "6 Years old",
+    "79": "6 Years old",
+    "8": "0 Years old",
+    "80": "6 Years old",
+    "81": "6 Years old",
+    "82": "6 Years old",
+    "83": "6 Years old",
+    "84": "7 Years old",
+    "85": "7 Years old",
+    "86": "7 Years old",
+    "87": "7 Years old",
+    "88": "7 Years old",
+    "89": "7 Years old",
+    "9": "0 Years old",
+    "90": "7 Years old",
+    "91": "7 Years old",
+    "92": "7 Years old",
+    "93": "7 Years old",
+    "94": "7 Years old",
+    "95": "7 Years old",
+    "96": "8 Years old",
+    "97": "8 Years old",
+    "98": "8 Years old",
+    "99": "8 Years old",
+    "999": "Refused"
+  },
+  "CHILDREN": {
+    "1       - 87": "Number of children",
+    "88": "None",
+    "99": "Refused"
+  },
+  "CHK3HEMO": {
+    "1       - 76": "Number of times  [76=76 or more]",
+    "77": "Don\u0092t know/Not sure",
+    "88": "None",
+    "98": "Never heard of \u0093A one C\u0094 test",
+    "99": "Refused"
+  },
+  "CIMEMLOS": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CNCR2TYP": {
+    "1": "Bladder",
+    "10": "Kidney",
+    "11": "Larynx-trachea",
+    "12": "Leukemia",
+    "13": "Liver",
+    "14": "Lung",
+    "15": "Lymphoma",
+    "16": "Melanoma",
+    "17": "Mouth/tongue/lip",
+    "18": "Ovary/Ovarian",
+    "19": "Pancreas/Pancreatic",
+    "2": "Blood",
+    "20": "Prostate",
+    "21": "Rectum/Rectal",
+    "22": "Skin (non-melanoma)",
+    "23": "Skin (don\u00b4t know what kind)",
+    "24": "Soft tissue (muscle or fat)",
+    "25": "Stomach",
+    "26": "Testis/Testicular",
+    "27": "Throat - pharynx",
+    "28": "Thyroid",
+    "29": "Uterus/Uterine",
+    "3": "Bone",
+    "30": "Other",
+    "4": "Brain",
+    "5": "Breast",
+    "6": "Cervix/Cervical",
+    "7": "Colon",
+    "77": "Don\u0092t know/Not sure",
+    "8": "Esophagus/Esophageal",
+    "9": "Gallbladder",
+    "99": "Refused"
+  },
+  "CNCRAGE": {
+    "1       - 97": "Age in years (97=97 and older)",
+    "98": "Don\u0092t know/Not Sure",
+    "99": "Refused"
+  },
+  "CNCRDIFF": {
+    "1": "Only one",
+    "2": "Two",
+    "3": "Three or more",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "COLG1SEX": {
+    "1": "Male",
+    "2": "Female",
+    "3": "Nonbinary",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "COLGHOUS": {
+    "1": "Yes",
+    "2": "No"
+  },
+  "COLN1TES": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years ago)",
+    "3": "Within the past 5 years (2 years but less than 5 years ago)",
+    "4": "Within the past 10 years (5 years but less than 10 years ago)",
+    "5": "10 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "COLNCNCR": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "COLNSIGM": {
+    "1": "Colonoscopy",
+    "2": "Sigmoidoscopy",
+    "3": "Both",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "COPDBRTH": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "COPDBTST": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "COPDCOGH": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "COPDFLEM": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "COPDSMOK": {
+    "1       - 76": "Number of years",
+    "77": "Don\u00b4t know/Not sure",
+    "88": "Never smoked or smoked < one year",
+    "99": "Refused"
+  },
+  "COVACGET": {
+    "1": "Will definitely get a vaccine",
+    "2": "Will probably get a vaccine",
+    "3": "Will probably not get a vaccine",
+    "4": "Will definitely not get a vaccine",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "COVID1FS": {
+    "12020   - 122022": "Month / Year",
+    "772020": "Unknown month and known year",
+    "772021": "Unknown month and known year",
+    "772022": "Unknown month and known year",
+    "777777": "Don\u0092t know/Not sure",
+    "999999": "Refused"
+  },
+  "COVID1NU": {
+    "1": "One",
+    "2": "Two",
+    "3": "Three",
+    "4": "Four or more",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "COVID1SE": {
+    "12020   - 122022": "Month / Year",
+    "772020": "Unknown month and known year",
+    "772021": "Unknown month and known year",
+    "772022": "Unknown month and known year",
+    "777777": "Don\u0092t know/Not sure",
+    "999999": "Refused"
+  },
+  "COVID1VA": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "COVIDINT": {
+    "1": "Already received all recommended doses",
+    "2": "Plan to receive all recommended doses",
+    "3": "Do not plan to receive all recommended doses",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "COVIDPOS": {
+    "1": "Yes",
+    "2": "No",
+    "3": "Tested positive using home test without health professional",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "COVIDPRM": {
+    "1": "Tiredness or fatigue",
+    "10": "Loss of taste or smell",
+    "11": "Some other symptom",
+    "2": "Difficulty thinking or concentrating or forgetfulness/memory problems (sometimes referred to as \u00b4brain fog\u00b4)",
+    "3": "Difficulty breathing or shortness of breath",
+    "4": "Joint or muscle pain",
+    "5": "Fast-beating or pounding heart (also known as heart palpitations) or chest pain",
+    "6": "Dizziness on standing",
+    "7": "Depression, anxiety, or mood changes",
+    "77": "Don\u0092t know/Not Sure",
+    "8": "Symptoms that get worse after physical or mental activities",
+    "9": "You did not have any long-term symptoms that limited your activities.",
+    "99": "Refused"
+  },
+  "COVIDSMP": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CPDEMO1C": {
+    "1": "Enter number (1-5)",
+    "2": "Enter number (1-5)",
+    "3": "Enter number (1-5)",
+    "4": "Enter number (1-5)",
+    "5": "Enter number (1-5)",
+    "6": "Six or more",
+    "7": "Don\u0092t know/Not sure",
+    "8": "None",
+    "9": "Refused"
+  },
+  "CRGV1HOU": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CRGV1HRS": {
+    "1": "Up to 8 hours per week",
+    "2": "9 to 19 hours per week",
+    "3": "20 to 39 hours per week",
+    "4": "40 hours or more",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CRGV1LNG": {
+    "1": "Less than 30 days",
+    "2": "1 month to less than 6 months",
+    "3": "6 months to less than 2 years",
+    "4": "2 years to less than 5 years",
+    "5": "5 or more years",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CRGV1PER": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CRGV3PRB": {
+    "1": "Arthritis/ rheumatism",
+    "10": "Mental illnesses, such as anxiety, depression, or schizophrenia",
+    "11": "Other organ failure or diseases such as kidney or liver problems",
+    "12": "Substance abuse or addiction disorders",
+    "13": "Injuries, including broken bones",
+    "14": "Old age/ infirmity/frailty",
+    "15": "Other",
+    "2": "Asthma",
+    "3": "Cancer",
+    "4": "Chronic respiratory conditions such as emphysema or COPD",
+    "5": "Alzheimer\u00b4s disease, dementia or other cognitive impairment disorder",
+    "6": "Developmental disabilities such as autism, Down\u00b4s Syndrome, and spina bifida",
+    "7": "Diabetes",
+    "77": "Don\u0092t know/Not Sure",
+    "8": "Heart disease, hypertension, stroke",
+    "9": "Human Immunodeficiency Virus Infection (H.I.V.)",
+    "99": "Refused"
+  },
+  "CRGV4REL": {
+    "1": "Mother",
+    "10": "Sister or sister-in-law",
+    "11": "Grandmother",
+    "12": "Grandfather",
+    "13": "Grandchild",
+    "14": "Other relative",
+    "15": "Non-relative/Family friend",
+    "2": "Father",
+    "3": "Mother-in-law",
+    "4": "Father-in-law",
+    "5": "Child",
+    "6": "Husband",
+    "7": "Wife",
+    "77": "Don\u0092t know/Not Sure",
+    "8": "Live-in partner",
+    "9": "Brother or brother-in-law",
+    "99": "Refused"
+  },
+  "CRGVALZD": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CRGVEXPT": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CRVCLCNC": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years ago)",
+    "3": "Within the past 3 years (2 years but less than 3 years ago)",
+    "4": "Within the past 5 years (3 years but less than 5 years ago)",
+    "5": "5 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CRVCLHPV": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CRVCLPAP": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CSRV1DOC": {
+    "1": "Cancer Surgeon",
+    "10": "Other",
+    "2": "Family Practitioner",
+    "3": "General Surgeon",
+    "4": "Gynecologic Oncologist",
+    "5": "General Practitioner, Internist",
+    "6": "Plastic Surgeon, Reconstructive Surgeon",
+    "7": "Medical Oncologist",
+    "77": "Don\u0092t know/Not Sure",
+    "8": "Radiation Oncologist",
+    "9": "Urologist",
+    "99": "Refused"
+  },
+  "CSRV2CTL": {
+    "1": "With medication (or treatment)",
+    "2": "Without medication (or treatment)",
+    "3": "Not under control, with medication (or treatment)",
+    "4": "Not under control, without medication (or treatment)",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CSRV3TRT": {
+    "1": "Yes",
+    "2": "No, I\u0092ve completed treatment",
+    "3": "No, I\u0092ve refused treatment",
+    "4": "No, I haven\u0092t started treatment",
+    "5": "Treatment was not necessary",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CSRVCLIN": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CSRVDEIN": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CSRVINSR": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CSRVINST": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CSRVPAIN": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CSRVRTRN": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CSRVSUM": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "CTEL1NUM": {
+    "1": "Yes",
+    "2": "No"
+  },
+  "CTELE1NM": {
+    "1": "Yes",
+    "2": "No"
+  },
+  "CVD3STRK": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CVD4CRHD": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "CVD4INFR": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "DEAF": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "DECIDE": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "DIA4BETE": {
+    "1": "Yes",
+    "2": "Yes, but female told only during pregnancy",
+    "3": "No",
+    "4": "No, pre-diabetes or borderline diabetes",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "DIAB1EDU": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the last 2 years (1 year but less than 2 years ago)",
+    "3": "Within the last 3 years (2 years but less than 3 years ago)",
+    "4": "Within the last 5 years (3 to 4 years but less than 5 years ago)",
+    "5": "Within the last 10 years (5 to 9 years but less than 10 years ago)",
+    "6": "10 years ago or more",
+    "7": "Don\u0092t know/Not sure",
+    "8": "Never",
+    "9": "Refused"
+  },
+  "DIAB1EYE": {
+    "1": "Within the past month (anytime less than 1 month ago)",
+    "2": "Within the past year (1 month but less than 12 months ago)",
+    "3": "Within the past 2 years (1 year but less than 2 years ago)",
+    "4": "2 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "8": "Never",
+    "9": "Refused"
+  },
+  "DIAB4AGE": {
+    "1       - 97": "Age in years  [97 = 97 and older]",
+    "98": "Don\u0092t know/Not sure",
+    "99": "Refused"
+  },
+  "DIABTYPE": {
+    "1": "Type 1",
+    "2": "Type 2",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "DIFFALON": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "DIFFDRES": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "DIFFWALK": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "DRNK35GE": {
+    "1       - 76": "Number of Times",
+    "77": "Don\u0092t know/Not Sure",
+    "88": "None",
+    "99": "Refused"
+  },
+  "DRNK6ANY": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused/Missing"
+  },
+  "DROCDY4_": {
+    "0": "No Drink-Occasions per day",
+    "1       - 899": "Drink-Occasions per day",
+    "900": "Don\u0092t know/Not Sure Or Refused/Missing"
+  },
+  "ECIG2NOW": {
+    "1": "Never used e-cigarettes in your entire life",
+    "2": "Use them every day",
+    "3": "Use them some days",
+    "4": "Not at all (right now)",
+    "7": "Don\u0092t know / Not sure",
+    "9": "Refused"
+  },
+  "EDUCA": {
+    "1": "Never attended school or only kindergarten",
+    "2": "Grades 1 through 8 (Elementary)",
+    "3": "Grades 9 through 11 (Some high school)",
+    "4": "Grade 12 or GED (High school graduate)",
+    "5": "College 1 year to 3 years (Some college or technical school)",
+    "6": "College 4 years or more (College graduate)",
+    "9": "Refused"
+  },
+  "EMPLOY1F": {
+    "1": "Employed for wages",
+    "2": "Self-employed",
+    "3": "Out of work for 1 year or more",
+    "4": "Out of work for less than 1 year",
+    "5": "A homemaker",
+    "6": "A student",
+    "7": "Retired",
+    "8": "Unable to work",
+    "9": "Refused"
+  },
+  "EMTSUPRT": {
+    "1": "Always",
+    "2": "Usually",
+    "3": "Sometimes",
+    "4": "Rarely",
+    "5": "Never",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "EXER2ANY": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "EYE1EXAM": {
+    "1": "Within the past month (anytime less than 1 month ago)",
+    "2": "Within the past year (1 month but less than 12 months ago)",
+    "3": "Within the past 2 years (1 year but less than 2 years ago)",
+    "4": "2 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "8": "Never",
+    "9": "Refused"
+  },
+  "FEETSORE": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "FIRE5ARM": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "FLSHT3MY": {
+    "12021   - 122022": "Month / Year",
+    "777777": "Don\u0092t know/Not Sure",
+    "999999": "Refused"
+  },
+  "FLU7SHOT": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "FMONTH": {
+    "1": "January",
+    "10": "October",
+    "11": "November",
+    "12": "December",
+    "2": "February",
+    "3": "March",
+    "4": "April",
+    "5": "May",
+    "6": "June",
+    "7": "July",
+    "8": "August",
+    "9": "September"
+  },
+  "FOODSTMP": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "GENHLTH": {
+    "1": "Excellent",
+    "2": "Very good",
+    "3": "Good",
+    "4": "Fair",
+    "5": "Poor",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "GUNLOAD": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "HAD2HYST": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "HAD4SIGM": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "HADMAM": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "HADSEX": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "HAV4ARTH": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "HAVECFS": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "HEATTBCO": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "HEIGHT": {
+    "200     - 711": "Height (ft/inches)",
+    "7777": "Don\u0092t know/Not sure",
+    "9061    - 9998": "Height (meters/centimeters)",
+    "9999": "Refused"
+  },
+  "HHADULT": {
+    "1       - 76": "Number of adults",
+    "77": "Don\u0092t know/Not sure",
+    "99": "Refused"
+  },
+  "HIV3TSTD": {
+    "11985   - 122022": "Code month and year",
+    "771985  - 772022": "Unknown month and known year",
+    "777777": "Don\u0092t know/Not sure",
+    "999999": "Refused"
+  },
+  "HIV5RISK": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "HIV7TST": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "HOWLONG": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years ago)",
+    "3": "Within the past 3 years (2 years but less than 3 years ago)",
+    "4": "Within the past 5 years (3 years but less than 5 years ago)",
+    "5": "5 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "HPV4ADVC": {
+    "1": "Yes",
+    "2": "No",
+    "3": "Doctor refused when asked",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "HPVADSHT": {
+    "1": "Number of shots",
+    "2": "Number of shots",
+    "3": "All shots",
+    "77": "Don\u0092t know/Not Sure",
+    "99": "Refused"
+  },
+  "HT4IN": {
+    "36      - 95": "Height in inches"
+  },
+  "HT4M": {
+    "91      - 244": "Height in meters [2 implied decimal places]"
+  },
+  "IMFV3PLA": {
+    "1": "A doctor\u00b4s office or health maintenance organization (HMO)",
+    "10": "A school",
+    "11": "A drive though location at some other place than listed above",
+    "2": "A health department",
+    "3": "Another type of clinic or health center (a community health center)",
+    "4": "A senior, recreation, or community center",
+    "5": "A store (supermarket, drug store)",
+    "6": "A hospital (inpatient or outpatient)",
+    "7": "An emergency room",
+    "77": "Don\u0092t know / Not sure",
+    "8": "Workplace",
+    "9": "Some other kind of place",
+    "99": "Refused"
+  },
+  "IMONTH": {
+    "1": "January",
+    "10": "October",
+    "11": "November",
+    "12": "December",
+    "2": "February",
+    "3": "March",
+    "4": "April",
+    "5": "May",
+    "6": "June",
+    "7": "July",
+    "8": "August",
+    "9": "September"
+  },
+  "IN1SULIN": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "IN3COME": {
+    "1": "Less than $10,000",
+    "10": "Less than $200,000? ($150,000 to < $200,000)",
+    "11": "$200,000 or more",
+    "2": "Less than $15,000 ($10,000 to < $15,000)",
+    "3": "Less than $20,000 ($15,000 to < $20,000)",
+    "4": "Less than $25,000 ($20,000 to < $25,000)",
+    "5": "Less than $35,000 ($25,000 to < $35,000)",
+    "6": "Less than $50,000 ($35,000 to < $50,000)",
+    "7": "Less than $75,000 ($50,000 to < $75,000)",
+    "77": "Don\u0092t know/Not sure",
+    "8": "Less than $100,000? ($75,000 to < $100,000)",
+    "9": "Less than $150,000? ($100,000 to < $150,000)?",
+    "99": "Refused"
+  },
+  "L1ADULT": {
+    "1": "Yes",
+    "2": "No"
+  },
+  "LAND1SEX": {
+    "1": "Male",
+    "2": "Female",
+    "3": "Nonbinary",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "LANDLINE": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "LAST2SMK": {
+    "1": "Within the past month (less than 1 month ago)",
+    "2": "Within the past 3 months (1 month but less than 3 months ago)",
+    "3": "Within the past 6 months (3 months but less than 6 months ago)",
+    "4": "Within the past year (6 months but less than 1 year ago)",
+    "5": "Within the past 5 years (1 year but less than 5 years ago)",
+    "6": "Within the past 10 years (5 years but less than 10 years ago)",
+    "7": "10 years or more",
+    "77": "Don\u0092t know/Not sure",
+    "8": "Never smoked regularly",
+    "99": "Refused"
+  },
+  "LAST4DEN": {
+    "1": "Within the past year (anytime < 12 months ago)",
+    "2": "Within the past 2 years (1 year but < 2 years ago)",
+    "3": "Within the past 5 years (2 years but < 5 years ago)",
+    "4": "5 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "8": "Never",
+    "9": "Refused"
+  },
+  "LAST4SIG": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years ago)",
+    "3": "Within the past 5 years (2 years but less than 5 years ago)",
+    "4": "Within the past 10 years (5 years but less than 10 years ago)",
+    "5": "10 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "LCS1CTSC": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "LCSCTWHN": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years)",
+    "3": "Within the past 3 years (2 years but less than 3 years)",
+    "4": "Within the past 5 years (3 years but less than 5 years)",
+    "5": "Within the past 10 years (5 years but less than 10 years ago)",
+    "6": "10 or more years ago",
+    "7": "Don\u0092t know / Not sure",
+    "9": "Refused"
+  },
+  "LCSFIRST": {
+    "1       - 100": "Age in Years",
+    "777": "Don\u0092t know/Not Sure",
+    "888": "Never smoked cigarettes regularly",
+    "999": "Refused"
+  },
+  "LCSLAST": {
+    "1       - 100": "Age in Years",
+    "777": "Don\u0092t know/Not Sure",
+    "999": "Refused"
+  },
+  "LCSNUMCG": {
+    "1       - 300": "Number of cigarettes",
+    "777": "Don\u0092t know/Not Sure",
+    "999": "Refused"
+  },
+  "LCSSCNCR": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "LOAD2ULK": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "LSATISFY": {
+    "1": "Very satisfied",
+    "2": "Satisfied",
+    "3": "Dissatisfied",
+    "4": "Very dissatisfied",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "MARI1JAN": {
+    "1       - 30": "Number of Days",
+    "77": "Don\u0092t know/Not Sure",
+    "88": "None",
+    "99": "Refused"
+  },
+  "MARITAL": {
+    "1": "Married",
+    "2": "Divorced",
+    "3": "Widowed",
+    "4": "Separated",
+    "5": "Never married",
+    "6": "A member of an unmarried couple",
+    "9": "Refused"
+  },
+  "MARJDAB": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "MARJEAT": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "MARJOTHR": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "MARJSMOK": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "MARJVAPE": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "MAXDRNKS": {
+    "1       - 76": "Number of drinks",
+    "77": "Don\u0092t know/Not sure",
+    "88": "Invalid response",
+    "99": "Refused"
+  },
+  "MED1COST": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "MENTCIGS": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "MENTECIG": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "MENTHLTH": {
+    "1       - 30": "Number of days",
+    "77": "Don\u0092t know/Not sure",
+    "88": "None",
+    "99": "Refused"
+  },
+  "MSCODE": {
+    "1": "In the center city of an MSA",
+    "2": "Outside the center city of an MSA but inside the county containing the center city",
+    "3": "Inside a suburban county of the MSA",
+    "4": "In an MSA that has no center city",
+    "5": "Not in an MSA"
+  },
+  "NOBC8USE": {
+    "1": "You didn\u00b4t think you were going to have sex/no regular partner",
+    "10": "You had your tubes tied (sterilization)",
+    "11": "Your partner had a vasectomy (sterilization)",
+    "12": "You were breast-feeding or you just had a baby",
+    "13": "You were assigned male at birth",
+    "14": "Other reasons",
+    "2": "You just didn\u00b4t think about it",
+    "3": "You wanted a pregnancy",
+    "4": "You didn\u00b4t care if you got pregnant",
+    "5": "You or your partner didn\u00b4t want to use birth control (side effects, don\u00b4t like birth control)",
+    "6": "You had trouble getting or paying for birth control",
+    "7": "You didn\u00b4t trust giving out your personal information to medical personnel",
+    "77": "Don\u0092t know/Not sure",
+    "8": "Didn\u00b4t think you or your partner could get pregnant (infertile or too old)",
+    "9": "You were using withdrawal or",
+    "99": "Refused"
+  },
+  "NUM4HHOL": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "NUM4PHON": {
+    "1": "Residential telephone number(s)",
+    "2": "Residential telephone number(s)",
+    "3": "Residential telephone number(s)",
+    "4": "Residential telephone number(s)",
+    "5": "Residential telephone number(s)",
+    "6": "Residential telephone numbers",
+    "7": "Don\u0092t know/Not Sure",
+    "8": "None",
+    "9": "Refused"
+  },
+  "O4RACE": {
+    "10": "White",
+    "20": "Black or African American",
+    "30": "American Indian or Alaska Native",
+    "40": "Asian",
+    "41": "Asian Indian",
+    "42": "Chinese",
+    "43": "Filipino",
+    "44": "Japanese",
+    "45": "Korean",
+    "46": "Vietnamese",
+    "47": "Other Asian",
+    "50": "Pacific Islander",
+    "51": "Native Hawaiian",
+    "52": "Guamanian or Chamorro",
+    "53": "Samoan",
+    "54": "Other Pacific Islander",
+    "77": "Don\u00b4t know/Not Sure",
+    "99": "Refused"
+  },
+  "P1DIABTS": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years)",
+    "3": "Within the past 3 years (2 years but less than 3 years)",
+    "4": "Within the past 5 years (3 to 4 years but less than 5 years ago)",
+    "5": "Within the past 10 years (5 to 9 years but less than 10 years ago)",
+    "6": "10 or more years ago",
+    "7": "Don\u0092t know / Not sure",
+    "8": "Never",
+    "9": "Refused"
+  },
+  "PCPSA2RS": {
+    "1": "Part of a routine exam",
+    "2": "Because of a problem",
+    "3": "Other reason",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "PCS1TALK": {
+    "1": "Advantages",
+    "2": "Disadvantages",
+    "3": "Both Advantages and Disadvantages",
+    "4": "Neither",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "PERS3DOC": {
+    "1": "Yes, only one",
+    "2": "More than one",
+    "3": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "PF4PPRVN": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "PHYSHLTH": {
+    "1       - 30": "Number of days",
+    "77": "Don\u0092t know/Not sure",
+    "88": "None",
+    "99": "Refused"
+  },
+  "PNEU4VAC": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "POORHLTH": {
+    "1       - 30": "Number of days",
+    "77": "Don\u0092t know/Not sure",
+    "88": "None",
+    "99": "Refused"
+  },
+  "PRE2DIAB": {
+    "1": "Yes",
+    "2": "Yes, during pregnancy",
+    "3": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "PRECALL": {
+    "1": "To be called",
+    "3": "No need to dial",
+    "4": "No need to dial",
+    "5": "No need to dial",
+    "6": "No need to dial",
+    "7": "To be called",
+    "8": "No need to dial",
+    "9": "No need to dial"
+  },
+  "PREGNANT": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "PRIMINSR": {
+    "1": "A plan purchased through an employer or union (including plans purchased through another person\u00b4s employer)",
+    "10": "Other government program",
+    "2": "A private nongovernmental plan that you or another family member buys on your own",
+    "3": "Medicare",
+    "4": "Medigap",
+    "5": "Medicaid",
+    "6": "Children\u00b4s Health Insurance Program (CHIP)",
+    "7": "Military related health care: TRICARE (CHAMPUS) / VA health care / CHAMP- VA",
+    "77": "Don\u0092t know/Not Sure",
+    "8": "Indian Health Service",
+    "88": "No coverage of any type",
+    "9": "State sponsored health plan",
+    "99": "Refused"
+  },
+  "PSA1TEST": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "PSA1TIME": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years ago)",
+    "3": "Within the past 3 years (2 years but less than 3 years ago)",
+    "4": "Within the past 5 years (3 years but less than 5 years ago)",
+    "5": "5 or more years ago",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "PSASUGST": {
+    "1": "Self",
+    "2": "Doctor, nurse, health care professional",
+    "3": "Someone else",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "PVT1RESD": {
+    "1": "Yes",
+    "2": "No",
+    "3": "No, business phone only"
+  },
+  "PVT3RESD": {
+    "1": "Yes",
+    "2": "No"
+  },
+  "QSTLANG": {
+    "1": "English",
+    "2": "Spanish",
+    "3       - 99": "Other"
+  },
+  "RCS1GEND": {
+    "1": "Boy",
+    "2": "Girl",
+    "3": "Nonbinary/other",
+    "9": "Refused"
+  },
+  "RCS2RLTN": {
+    "1": "Parent (include biologic, step, or adoptive parent)",
+    "2": "Grandparent",
+    "3": "Foster parent or guardian",
+    "4": "Sibling (include biologic, step, and adoptive sibling)",
+    "5": "Other relative",
+    "6": "Not related in any way",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "RCS3BRAC": {
+    "10": "White",
+    "20": "Black or African American",
+    "30": "American Indian or Alaska Native",
+    "40": "Asian",
+    "41": "Asian Indian",
+    "42": "Chinese",
+    "43": "Filipino",
+    "44": "Japanese",
+    "45": "Korean",
+    "46": "Vietnamese",
+    "47": "Other Asian",
+    "50": "Pacific Islander",
+    "51": "Native Hawaiian",
+    "52": "Guamanian or Chamorro",
+    "53": "Samoan",
+    "54": "Other Pacific Islander",
+    "77": "Don\u0092t know/Not Sure",
+    "99": "Refused"
+  },
+  "RCSXBRTH": {
+    "1": "Boy",
+    "2": "Girl",
+    "9": "Refused"
+  },
+  "RENT1HOM": {
+    "1": "Own",
+    "2": "Rent",
+    "3": "Other arrangement",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "RESPSLCT": {
+    "1": "Male",
+    "2": "Female",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "RMV4TETH": {
+    "1": "1 to 5",
+    "2": "6 or more, but not all",
+    "3": "All",
+    "7": "Don\u0092t know/Not sure",
+    "8": "None",
+    "9": "Refused"
+  },
+  "RR2ATWRK": {
+    "1": "Worse than other races",
+    "2": "The same as other races",
+    "3": "Better than other races",
+    "4": "Worse than some races, better than others",
+    "5": "Only encountered people of the same race",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "RR2COGNT": {
+    "1": "Never",
+    "2": "Once a year",
+    "3": "Once a month",
+    "4": "Once a week",
+    "5": "Once a day",
+    "6": "Once an hour",
+    "7": "Don\u0092t know/Not sure",
+    "8": "Constantly",
+    "9": "Refused"
+  },
+  "RR2PHYSM": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "RR3CLASS": {
+    "1": "White",
+    "2": "Black or African American",
+    "3": "Hispanic or Latino",
+    "4": "Asian",
+    "5": "Native Hawaiian or Other Pacific Islander",
+    "6": "American Indian or Alaska Native",
+    "7": "Mixed Race",
+    "77": "Don\u0092t know/Not sure",
+    "8": "Some other group",
+    "99": "Refused"
+  },
+  "RR4HCARE": {
+    "1": "Worse than other races",
+    "2": "The same as other races",
+    "3": "Better than other races",
+    "4": "Worse than some races, better than others",
+    "5": "Only encountered people of the same race",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "RRTREAT": {
+    "1": "Worse than other races",
+    "2": "The same as other races",
+    "3": "Better than other races",
+    "4": "Worse than some races, better than others",
+    "5": "Only encountered people of the same race",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "RSP1STAT": {
+    "1": "Alabama",
+    "10": "Delaware",
+    "11": "District of Columbia",
+    "12": "Florida",
+    "13": "Georgia",
+    "15": "Hawaii",
+    "16": "Idaho",
+    "17": "Illinois",
+    "18": "Indiana",
+    "19": "Iowa",
+    "2": "Alaska",
+    "20": "Kansas",
+    "21": "Kentucky",
+    "22": "Louisiana",
+    "23": "Maine",
+    "24": "Maryland",
+    "25": "Massachusetts",
+    "26": "Michigan",
+    "27": "Minnesota",
+    "28": "Mississippi",
+    "29": "Missouri",
+    "30": "Montana",
+    "31": "Nebraska",
+    "32": "Nevada",
+    "33": "New Hampshire",
+    "34": "New Jersey",
+    "35": "New Mexico",
+    "36": "New York",
+    "37": "North Carolina",
+    "38": "North Dakota",
+    "39": "Ohio",
+    "4": "Arizona",
+    "40": "Oklahoma",
+    "41": "Oregon",
+    "42": "Pennsylvania",
+    "44": "Rhode Island",
+    "45": "South Carolina",
+    "46": "South Dakota",
+    "47": "Tennessee",
+    "48": "Texas",
+    "49": "Utah",
+    "5": "Arkansas",
+    "50": "Vermont",
+    "51": "Virginia",
+    "53": "Washington",
+    "54": "West Virginia",
+    "55": "Wisconsin",
+    "56": "Wyoming",
+    "6": "California",
+    "66": "Guam",
+    "72": "Puerto Rico",
+    "77": "Out of US",
+    "78": "Virgin Islands",
+    "8": "Colorado",
+    "9": "Connecticut",
+    "99": "Refused"
+  },
+  "SDH1FOOD": {
+    "1": "Always",
+    "2": "Usually",
+    "3": "Sometimes",
+    "4": "Rarely",
+    "5": "Never",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "SDH1STRE": {
+    "1": "Always",
+    "2": "Usually",
+    "3": "Sometimes",
+    "4": "Rarely",
+    "5": "Never",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "SDHBILLS": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "SDHEMPLY": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "SDHISOLT": {
+    "1": "Always",
+    "2": "Usually",
+    "3": "Sometimes",
+    "4": "Rarely",
+    "5": "Never",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "SDHTRNSP": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "SDHUTILS": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "SDNA1TES": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years ago)",
+    "3": "Within the past 3 years (2 years but less than 3 years ago)",
+    "4": "Within the past 5 years (3 years but less than 5 years ago)",
+    "5": "5 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "SECSCRFL": {
+    "0": "Undetermined/Residential",
+    "1": "No Answer",
+    "2": "Busy",
+    "3": "Fax/Modem",
+    "4": "Language Barrier",
+    "5": "Privacy Manager",
+    "6": "Residential Voice Mail",
+    "7": "Residence/Phone Answered",
+    "8": "Cellular Number",
+    "9": "Business/Non-Working"
+  },
+  "SEXVAR": {
+    "1": "Male",
+    "2": "Female"
+  },
+  "SHIN2GLE": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "SIGM1TES": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years ago)",
+    "3": "Within the past 5 years (2 years but less than 5 years ago)",
+    "4": "Within the past 10 years (5 years but less than 10 years ago)",
+    "5": "10 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "SLEP1TIM": {
+    "1       - 24": "Number of hours [1-24]",
+    "77": "Don\u0092t know/Not Sure",
+    "99": "Refused"
+  },
+  "SMALSTOL": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "SMOK100_": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "SMOK2DAY": {
+    "1": "Every day",
+    "2": "Some days",
+    "3": "Not at all",
+    "7": "Don\u00b4t Know/Not Sure",
+    "9": "Refused"
+  },
+  "SOFEMALE": {
+    "1": "Lesbian or Gay",
+    "2": "Straight, that is, not gay",
+    "3": "Bisexual",
+    "4": "Something else",
+    "7": "I don\u00b4t know the answer",
+    "9": "Refused"
+  },
+  "SOMALE": {
+    "1": "Gay",
+    "2": "Straight, that is, not gay",
+    "3": "Bisexual",
+    "4": "Something else",
+    "7": "I don\u00b4t know the answer",
+    "9": "Refused"
+  },
+  "STOLTEST": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years ago)",
+    "3": "Within the past 3 years (2 years but less than 3 years ago)",
+    "4": "Within the past 5 years (3 years but less than 5 years ago)",
+    "5": "5 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "STOOL2DN": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "STOP2SMK": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "TETAN1US": {
+    "1": "Yes, received Tdap",
+    "2": "Yes, received tetanus shot, but not Tdap",
+    "3": "Yes, received tetanus shot but not sure what type",
+    "4": "No, did not receive any tetanus shot in the past 10 years",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "TOLDCFS": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "TRNSGNDR": {
+    "1": "Yes, Transgender, male-to-female",
+    "2": "Yes, Transgender, female to male",
+    "3": "Yes, Transgender, gender nonconforming",
+    "4": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "TYP9CNTR": {
+    "1": "Female sterilization (Tubal ligation, Essure, or Adiana)",
+    "10": "Withdrawal or pulling out",
+    "11": "Emergency contraception or the morning after pill (Plan B or ella)",
+    "12": "Other method",
+    "2": "Male sterilization (vasectomy)",
+    "3": "Contraceptive implant",
+    "4": "Intrauterine device or IUD (Mirena, Levonorgestrel, ParaGard)",
+    "5": "Shots (Depo-Provera)",
+    "6": "Birth control pills, Contraceptive Ring (NuvaRing), Contraceptive patch (Ortho Evra)",
+    "7": "Condoms (male or female)",
+    "77": "Don\u0092t know/Not sure",
+    "8": "Diaphragm, cervical cap, sponge, foam, jelly, film, or cream",
+    "9": "Had sex at a time when less likely to get pregnant (rhythm or natural family planning)",
+    "99": "Refused"
+  },
+  "USE3NOW": {
+    "1": "Every day",
+    "2": "Some days",
+    "3": "Not at all",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "USE4MRJN": {
+    "1": "Smoke it (for example, in a joint, bong, pipe, or blunt)",
+    "2": "Eat it or drink it (for example, in brownies, cakes, cookies, or candy, or in tea, cola, or alcohol)",
+    "3": "Vaporize it (for example, in an e-cigarette-like vaporizer or another vaporizing device)",
+    "4": "Dab it (for example, using a dabbing rig, knife, or dab pen)",
+    "5": "Use it some other way",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "VCLN2TES": {
+    "1": "Within the past year (anytime less than 12 months ago)",
+    "2": "Within the past 2 years (1 year but less than 2 years ago)",
+    "3": "Within the past 5 years (2 years but less than 5 years ago)",
+    "4": "Within the past 10 years (5 years but less than 10 years ago)",
+    "5": "10 or more years ago",
+    "7": "Don\u0092t know/Not sure",
+    "9": "Refused"
+  },
+  "VET3ERAN": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "VIR1COLO": {
+    "1": "Yes",
+    "2": "No",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "WEIGHT": {
+    "50      - 776": "Weight (pounds)",
+    "7777": "Don\u0092t know/Not sure",
+    "9023    - 9352": "Weight (kilograms)",
+    "9999": "Refused"
+  },
+  "WHEREGET": {
+    "1": "Private doctor\u00b4s office",
+    "10": "Some other place",
+    "2": "Community health clinic, Community clinic, Public health clinic",
+    "3": "Family planning or Planned Parenthood Clinic",
+    "4": "School or school-based clinic",
+    "5": "Hospital outpatient clinic, emergency room, regular hospital room",
+    "6": "Urgent care center, urgi-care or walk-in facility",
+    "7": "In- store health clinic (like CVS, Target, or Walmart)",
+    "77": "Don\u0092t know/Not sure",
+    "8": "Health care visit with a pharmacist",
+    "9": "Website or app",
+    "99": "Refused"
+  },
+  "WORKCFS": {
+    "1": "0 or no hours -- cannot work at all because of CFS or ME",
+    "2": "1 - 10 hours a week",
+    "3": "11- 20 hours a week",
+    "4": "21- 30 hours a week",
+    "5": "31 - 40 hours a week",
+    "7": "Don\u0092t know/Not Sure",
+    "9": "Refused"
+  },
+  "_101SGMS": {
+    "1": "Have had a sigmoidoscopy in the past 10 years",
+    "2": "Have had a sigmoidoscopy 10 or more years ago",
+    "3": "Have never had a sigmoidoscopy"
+  },
+  "_1ASTHMS": {
+    "1": "Current",
+    "2": "Former",
+    "3": "Never",
+    "9": "Don\u0092t know/Not Sure Or Refused/Missing"
+  },
+  "_1CASTHM": {
+    "1": "No",
+    "2": "Yes",
+    "9": "Don\u0092t know/Not Sure Or Refused/Missing"
+  },
+  "_1CLNSCP": {
+    "1": "Had a colonoscopy in the past ten years",
+    "2": "Had a colonoscopy ten or more years ago",
+    "3": "Have never had a colonoscopy"
+  },
+  "_1LTASTH": {
+    "1": "No",
+    "2": "Yes",
+    "9": "Don\u0092t know/Not Sure Or Refused/Missing"
+  },
+  "_1RACE": {
+    "1": "White only, non-Hispanic",
+    "2": "Black only, non-Hispanic",
+    "3": "American Indian or Alaskan Native only, Non-Hispanic",
+    "4": "Asian only, non-Hispanic",
+    "5": "Native Hawaiian or other Pacific Islander only, Non-Hispanic",
+    "6": "Other race only, non-Hispanic",
+    "7": "Multiracial, non-Hispanic",
+    "8": "Hispanic",
+    "9": "Don\u0092t know/Not sure/Refused"
+  },
+  "_1RACEPR": {
+    "1": "White only, non-Hispanic",
+    "2": "Black only, non-Hispanic",
+    "3": "American Indian or Alaskan Native only, Non-Hispanic",
+    "4": "Asian only, non-Hispanic",
+    "5": "Native Hawaiian or other Pacific Islander only, Non-Hispanic",
+    "6": "Multiracial, non-Hispanic",
+    "7": "Hispanic"
+  },
+  "_1SGMSCP": {
+    "1": "Have had a sigmoidoscopy in the past 5 years",
+    "2": "Have had a sigmoidoscopy 5 or more years ago",
+    "3": "Have never had a sigmoidoscopy"
+  },
+  "_22RACEG": {
+    "1": "Non-Hispanic White",
+    "2": "Non-White or Hispanic",
+    "9": "Don\u0092t know/Not sure/Refused"
+  },
+  "_22RFMAM": {
+    "1": "Yes",
+    "2": "No",
+    "9": "Don\u0092t know/Not Sure/Refused"
+  },
+  "_2DENSTR": {
+    "1": "Listed",
+    "2": "Unlisted",
+    "3": "Zero block",
+    "9": "Not Applicable"
+  },
+  "_3PNEUMO": {
+    "1": "Yes",
+    "2": "No",
+    "9": "Don\u0092t know/Not Sure Or Refused/Missing"
+  },
+  "_3RFSMOK": {
+    "1": "No",
+    "2": "Yes",
+    "9": "Don\u0092t know/Refused/Missing"
+  },
+  "_3SMOKER": {
+    "1": "Current smoker - now smokes every day",
+    "2": "Current smoker - now smokes some days",
+    "3": "Former smoker",
+    "4": "Never smoked",
+    "9": "Don\u0092t know/Refused/Missing"
+  },
+  "_4AIDTST": {
+    "1": "Yes",
+    "2": "No",
+    "9": "Don\u0092t know/Not Sure/Refused"
+  },
+  "_4RACEGR": {
+    "1": "White only, Non-Hispanic",
+    "2": "Black only, Non-Hispanic",
+    "3": "Other race only, Non-Hispanic",
+    "4": "Multiracial, Non-Hispanic",
+    "5": "Hispanic",
+    "9": "Don\u0092t know/Not sure/Refused"
+  },
+  "_5023MAM": {
+    "1": "Received a mammogram within the past 2 years.",
+    "2": "Did not receive a mammogram within the past 2 years."
+  },
+  "_5BMI": {
+    "1       - 9999": "1 or greater"
+  },
+  "_5RFBMI": {
+    "1": "No",
+    "2": "Yes",
+    "9": "Don\u0092t know/Refused/Missing"
+  },
+  "_6RFBING": {
+    "1": "No",
+    "2": "Yes",
+    "9": "Don\u0092t know/Refused/Missing"
+  },
+  "_7FLSHOT": {
+    "1": "Yes",
+    "2": "No",
+    "9": "Don\u0092t know/Not Sure Or Refused/Missing"
+  },
+  "_8RFDRHV": {
+    "1": "No",
+    "2": "Yes",
+    "9": "Don\u0092t know/Refused/Missing"
+  },
+  "_AGE65YR": {
+    "1": "Age 18 to 64",
+    "2": "Age 65 or older",
+    "3": "Don\u0092t know/Refused/Missing"
+  },
+  "_AGE80F": {
+    "18": "Imputed Age 18 to 24",
+    "19": "Imputed Age 18 to 24",
+    "20": "Imputed Age 18 to 24",
+    "21": "Imputed Age 18 to 24",
+    "22": "Imputed Age 18 to 24",
+    "23": "Imputed Age 18 to 24",
+    "24": "Imputed Age 18 to 24",
+    "25": "Imputed Age 25 to 29",
+    "26": "Imputed Age 25 to 29",
+    "27": "Imputed Age 25 to 29",
+    "28": "Imputed Age 25 to 29",
+    "29": "Imputed Age 25 to 29",
+    "30": "Imputed Age 30 to 34",
+    "31": "Imputed Age 30 to 34",
+    "32": "Imputed Age 30 to 34",
+    "33": "Imputed Age 30 to 34",
+    "34": "Imputed Age 30 to 34",
+    "35": "Imputed Age 35 to 39",
+    "36": "Imputed Age 35 to 39",
+    "37": "Imputed Age 35 to 39",
+    "38": "Imputed Age 35 to 39",
+    "39": "Imputed Age 35 to 39",
+    "40": "Imputed Age 40 to 44",
+    "41": "Imputed Age 40 to 44",
+    "42": "Imputed Age 40 to 44",
+    "43": "Imputed Age 40 to 44",
+    "44": "Imputed Age 40 to 44",
+    "45": "Imputed Age 45 to 49",
+    "46": "Imputed Age 45 to 49",
+    "47": "Imputed Age 45 to 49",
+    "48": "Imputed Age 45 to 49",
+    "49": "Imputed Age 45 to 49",
+    "50": "Imputed Age 50 to 54",
+    "51": "Imputed Age 50 to 54",
+    "52": "Imputed Age 50 to 54",
+    "53": "Imputed Age 50 to 54",
+    "54": "Imputed Age 50 to 54",
+    "55": "Imputed Age 55 to 59",
+    "56": "Imputed Age 55 to 59",
+    "57": "Imputed Age 55 to 59",
+    "58": "Imputed Age 55 to 59",
+    "59": "Imputed Age 55 to 59",
+    "60": "Imputed Age 60 to 64",
+    "61": "Imputed Age 60 to 64",
+    "62": "Imputed Age 60 to 64",
+    "63": "Imputed Age 60 to 64",
+    "64": "Imputed Age 60 to 64",
+    "65": "Imputed Age 65 to 69",
+    "66": "Imputed Age 65 to 69",
+    "67": "Imputed Age 65 to 69",
+    "68": "Imputed Age 65 to 69",
+    "69": "Imputed Age 65 to 69",
+    "70": "Imputed Age 70 to 74",
+    "71": "Imputed Age 70 to 74",
+    "72": "Imputed Age 70 to 74",
+    "73": "Imputed Age 70 to 74",
+    "74": "Imputed Age 70 to 74",
+    "75": "Imputed Age 75 to 79",
+    "76": "Imputed Age 75 to 79",
+    "77": "Imputed Age 75 to 79",
+    "78": "Imputed Age 75 to 79",
+    "79": "Imputed Age 75 to 79",
+    "80": "Imputed Age 80 or older",
+    "81": "Imputed Age 80 or older",
+    "82": "Imputed Age 80 or older",
+    "83": "Imputed Age 80 or older",
+    "84": "Imputed Age 80 or older",
+    "85": "Imputed Age 80 or older",
+    "86": "Imputed Age 80 or older",
+    "87": "Imputed Age 80 or older",
+    "88": "Imputed Age 80 or older",
+    "89": "Imputed Age 80 or older",
+    "90": "Imputed Age 80 or older",
+    "91": "Imputed Age 80 or older",
+    "92": "Imputed Age 80 or older",
+    "93": "Imputed Age 80 or older",
+    "94": "Imputed Age 80 or older",
+    "95": "Imputed Age 80 or older",
+    "96": "Imputed Age 80 or older",
+    "97": "Imputed Age 80 or older",
+    "98": "Imputed Age 80 or older",
+    "99": "Imputed Age 80 or older"
+  },
+  "_AGEG5YR": {
+    "1": "Age 18 to 24",
+    "10": "Age 65 to 69",
+    "11": "Age 70 to 74",
+    "12": "Age 75 to 79",
+    "13": "Age 80 or older",
+    "14": "Don\u0092t know/Refused/Missing",
+    "2": "Age 25 to 29",
+    "3": "Age 30 to 34",
+    "4": "Age 35 to 39",
+    "5": "Age 40 to 44",
+    "6": "Age 45 to 49",
+    "7": "Age 50 to 54",
+    "8": "Age 55 to 59",
+    "9": "Age 60 to 64"
+  },
+  "_AGE_G": {
+    "1": "Age 18 to 24",
+    "2": "Age 25 to 34",
+    "3": "Age 35 to 44",
+    "4": "Age 45 to 54",
+    "5": "Age 55 to 64",
+    "6": "Age 65 or older"
+  },
+  "_AL3TETH": {
+    "1": "No",
+    "2": "Yes",
+    "9": "Don\u0092t know/Not Sure Or Refused/Missing"
+  },
+  "_BMI5CAT": {
+    "1": "Underweight",
+    "2": "Normal Weight",
+    "3": "Overweight",
+    "4": "Obese"
+  },
+  "_C2PRACE": {
+    "1": "White",
+    "2": "Black or African American",
+    "3": "American Indian or Alaskan Native",
+    "4": "Asian",
+    "5": "Native Hawaiian or other Pacific Islander",
+    "6": "Multiracial but preferred race not answered",
+    "7": "Multiracial but no preferred race",
+    "77": "Don\u0092t know/Not sure",
+    "88": "No race choice given",
+    "99": "Refused"
+  },
+  "_C2RACE": {
+    "1": "White only",
+    "2": "Black or African American only",
+    "3": "American Indian or Alaskan Native only",
+    "4": "Asian Only",
+    "5": "Native Hawaiian or other Pacific Islander only",
+    "6": "Multiracial",
+    "77": "Don\u0092t know/Not sure",
+    "88": "No race choice given",
+    "99": "Refused"
+  },
+  "_CHISPNC": {
+    "1": "Child of Hispanic, Latino/a, or Spanish origin",
+    "2": "Child not of Hispanic, Latino/a, or Spanish origin",
+    "9": "Don\u0092t know/Not Sure/Refused/Missing"
+  },
+  "_CHLDCNT": {
+    "1": "No children in household",
+    "2": "One child in household",
+    "3": "Two children in household",
+    "4": "Three children in household",
+    "5": "Four children in household",
+    "6": "Five or more children in household",
+    "9": "Don\u0092t know/Not sure/Missing"
+  },
+  "_CRC2REC": {
+    "1": "Had at least one of the recommended CRC tests within the recommended time interval",
+    "2": "Did not have any of the recommended CRC tests within the recommended time interval",
+    "3": "Have never had any of the recommended CRC tests"
+  },
+  "_CUR2ECI": {
+    "1": "Not currently using E-cigarettes",
+    "2": "Current E-cigarette user",
+    "9": "Don\u0092t know/Refused/Missing"
+  },
+  "_DEN3VST": {
+    "1": "Yes",
+    "2": "No",
+    "9": "Don\u0092t know/Not Sure Or Refused/Missing"
+  },
+  "_DRDX2AR": {
+    "1": "Diagnosed with arthritis",
+    "2": "Not diagnosed with arthritis"
+  },
+  "_DRNK2WK": {
+    "0": "Did not drink",
+    "1       - 98999": "Number of drinks per week",
+    "99900": "Don\u0092t know/Not sure/Refused/Missing"
+  },
+  "_DUALUSE": {
+    "1": "Landline frame with a cell phone",
+    "2": "Cell phone frame with a landline",
+    "3": "Land Line: Cell Phone Occasionally",
+    "4": "Cell Phone: Cell Phone Occasionally",
+    "9": "No Dual Phone Use"
+  },
+  "_EDUCAG": {
+    "1": "Did not graduate High School",
+    "2": "Graduated High School",
+    "3": "Attended College or Technical School",
+    "4": "Graduated from College or Technical School",
+    "9": "Don\u0092t know/Not sure/Missing"
+  },
+  "_EX3TETH": {
+    "1": "Not at risk",
+    "2": "At risk",
+    "9": "Don\u0092t know/Not Sure Or Refused/Missing"
+  },
+  "_HADCOLN": {
+    "1": "Have had a colonoscopy",
+    "2": "Have not had a colonoscopy"
+  },
+  "_HADSIGM": {
+    "1": "Have had a sigmoidoscopy",
+    "2": "Have not had a sigmoidoscopy"
+  },
+  "_HCV265U": {
+    "1": "Have some form of health insurance",
+    "2": "Do not have any form of health insurance",
+    "9": "Don\u0092t know/Not Sure, Refused or Missing"
+  },
+  "_HISPANC": {
+    "1": "Hispanic, Latino/a, or Spanish origin",
+    "2": "Not of Hispanic, Latino/a, or Spanish origin",
+    "9": "Don\u00b4t Know, Refused or Missing"
+  },
+  "_HLTHPLN": {
+    "1": "Have some form of insurance",
+    "2": "Do not have some form of health insurance",
+    "9": "Don\u00b4t know, refused or missing insurance response"
+  },
+  "_IMPAGE": {
+    "18": "Age 18 to 24",
+    "19": "Age 18 to 24",
+    "20": "Age 18 to 24",
+    "21": "Age 18 to 24",
+    "22": "Age 18 to 24",
+    "23": "Age 18 to 24",
+    "24": "Age 18 to 24",
+    "25": "Age 25 to 34",
+    "26": "Age 25 to 34",
+    "27": "Age 25 to 34",
+    "28": "Age 25 to 34",
+    "29": "Age 25 to 34",
+    "30": "Age 25 to 34",
+    "31": "Age 25 to 34",
+    "32": "Age 25 to 34",
+    "33": "Age 25 to 34",
+    "34": "Age 25 to 34",
+    "35": "Age 35 to 44",
+    "36": "Age 35 to 44",
+    "37": "Age 35 to 44",
+    "38": "Age 35 to 44",
+    "39": "Age 35 to 44",
+    "40": "Age 35 to 44",
+    "41": "Age 35 to 44",
+    "42": "Age 35 to 44",
+    "43": "Age 35 to 44",
+    "44": "Age 35 to 44",
+    "45": "Age 45 to 54",
+    "46": "Age 45 to 54",
+    "47": "Age 45 to 54",
+    "48": "Age 45 to 54",
+    "49": "Age 45 to 54",
+    "50": "Age 45 to 54",
+    "51": "Age 45 to 54",
+    "52": "Age 45 to 54",
+    "53": "Age 45 to 54",
+    "54": "Age 45 to 54",
+    "55": "Age 55 to 64",
+    "56": "Age 55 to 64",
+    "57": "Age 55 to 64",
+    "58": "Age 55 to 64",
+    "59": "Age 55 to 64",
+    "60": "Age 55 to 64",
+    "61": "Age 55 to 64",
+    "62": "Age 55 to 64",
+    "63": "Age 55 to 64",
+    "64": "Age 55 to 64",
+    "65      - 99": "Age 65 or older"
+  },
+  "_IMPCAGE": {
+    "1": "0-4 Years old",
+    "2": "5-9 Years old",
+    "3": "10-14 Years old",
+    "4": "15-17 Years old"
+  },
+  "_IMPCRAC": {
+    "1": "White, non-Hispanic",
+    "2": "Black or African American, non-Hispanic",
+    "3": "Asian, non-Hispanic",
+    "4": "American Indian or Alaskan Native, non-Hispanic",
+    "5": "Multi-race, non-Hispanic or Other race, non-Hispanic",
+    "6": "Hispanic"
+  },
+  "_IMPCSEX": {
+    "1": "Male",
+    "2": "Female"
+  },
+  "_IMPEDUC": {
+    "1": "Never attended school or only kindergarten",
+    "2": "Grades 1 through 8 (Elementary)",
+    "3": "Grades 9 through 11 (Some high school)",
+    "4": "Grade 12 or GED (High school graduate)",
+    "5": "College 1 year to 3 years (Some college or technical school)",
+    "6": "College 4 years or more (College graduate)"
+  },
+  "_IMPHOME": {
+    "1": "Own",
+    "2": "Rent",
+    "3": "Other arrangement"
+  },
+  "_IMPMRTL": {
+    "1": "Married",
+    "2": "Divorced",
+    "3": "Widowed",
+    "4": "Separated",
+    "5": "Never married",
+    "6": "A member of an unmarried couple"
+  },
+  "_IMPNPH": {
+    "1": "Number of phones",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": "",
+    "7": "",
+    "8": "8 or more"
+  },
+  "_IMPRACE": {
+    "1": "White, Non-Hispanic",
+    "2": "Black, Non-Hispanic",
+    "3": "Asian, Non-Hispanic",
+    "4": "American Indian/Alaskan Native, Non-Hispanic",
+    "5": "Hispanic",
+    "6": "Other race, Non-Hispanic"
+  },
+  "_IMPSEX": {
+    "1": "Male",
+    "2": "Female"
+  },
+  "_INCOM1G": {
+    "1": "Less than $15,000",
+    "2": "$15,000 to < $25,000",
+    "3": "$25,000 to < $35,000",
+    "4": "$35,000 to < $50,000",
+    "5": "$50,000 to < $100,000",
+    "6": "$100,000 to < $200,000",
+    "7": "$200,000 or more",
+    "9": "Don\u0092t know/Not sure/Missing"
+  },
+  "_LCSREC": {
+    "1": "Meet USPSTF recommendation: did have CAT/CT chest scan in last year",
+    "2": "Does not meet USPSTF recommendation: did not have CAT/CT chest scan in last year"
+  },
+  "_M2RACE": {
+    "1": "White only",
+    "2": "Black or African American only",
+    "3": "American Indian or Alaskan Native only",
+    "4": "Asian Only",
+    "5": "Native Hawaiian or other Pacific Islander only",
+    "6": "Multiracial",
+    "77": "Don\u0092t know/Not sure",
+    "88": "No race choice given",
+    "99": "Refused"
+  },
+  "_MENT14D": {
+    "1": "Zero days when mental health not good",
+    "2": "1-13 days when mental health not good",
+    "3": "14+ days when mental health not good",
+    "9": "Don\u0092t know/Refused/Missing"
+  },
+  "_METSTAT": {
+    "1": "Metropolitan counties (_URBNRRL = 1,2,3,4)",
+    "2": "Nonmetropolitan counties (_URBNRRL = 5,6)"
+  },
+  "_MICHD": {
+    "1": "Reported having MI or CHD",
+    "2": "Did not report having MI or CHD"
+  },
+  "_M_1RACE": {
+    "10": "White",
+    "20": "Black or African American",
+    "30": "American Indian or Alaska Native",
+    "40": "Asian",
+    "41": "Asian Indian",
+    "42": "Chinese",
+    "43": "Filipino",
+    "44": "Japanese",
+    "45": "Korean",
+    "46": "Vietnamese",
+    "47": "Other Asian",
+    "50": "Pacific Islander",
+    "51": "Native Hawaiian",
+    "52": "Guamanian or Chamorro",
+    "53": "Samoan",
+    "54": "Other Pacific Islander",
+    "70": "Multiple responses",
+    "77": "Don\u0092t know/Not Sure",
+    "88": "No race choice given",
+    "99": "Refused"
+  },
+  "_P2RACE": {
+    "1": "White",
+    "2": "Black or African American",
+    "3": "American Indian or Alaskan Native",
+    "4": "Asian",
+    "5": "Native Hawaiian or other Pacific Islander",
+    "6": "Multiracial but preferred race not answered",
+    "7": "Multiracial but no preferred race",
+    "77": "Don\u0092t know/Not sure",
+    "88": "No race choice given",
+    "99": "Refused"
+  },
+  "_PHYS14D": {
+    "1": "Zero days when physical health not good",
+    "2": "1-13 days when physical health not good",
+    "3": "14+ days when physical health not good",
+    "9": "Don\u0092t know/Refused/Missing"
+  },
+  "_RF5BLDS": {
+    "1": "Had a blood stool test in the past year",
+    "2": "Have had a blood stool test one or more years ago",
+    "3": "Have never had a blood stool test"
+  },
+  "_RFHLTH": {
+    "1": "Good or Better Health",
+    "2": "Fair or Poor Health",
+    "9": "Don\u0092t know/Not Sure Or Refused/Missing"
+  },
+  "_SBON1TI": {
+    "1": "Both on time",
+    "2": "At least one not on time",
+    "3": "Never had either"
+  },
+  "_SEX": {
+    "1": "Male",
+    "2": "Female"
+  },
+  "_SMOKGRP": {
+    "1": "Current smoker, 20+ Pack Years"
+  },
+  "_STATE": {
+    "1": "Alabama",
+    "10": "Delaware",
+    "11": "District of Columbia",
+    "12": "Florida",
+    "13": "Georgia",
+    "15": "Hawaii",
+    "16": "Idaho",
+    "17": "Illinois",
+    "18": "Indiana",
+    "19": "Iowa",
+    "2": "Alaska",
+    "20": "Kansas",
+    "21": "Kentucky",
+    "22": "Louisiana",
+    "23": "Maine",
+    "24": "Maryland",
+    "25": "Massachusetts",
+    "26": "Michigan",
+    "27": "Minnesota",
+    "28": "Mississippi",
+    "29": "Missouri",
+    "30": "Montana",
+    "31": "Nebraska",
+    "32": "Nevada",
+    "33": "New Hampshire",
+    "34": "New Jersey",
+    "35": "New Mexico",
+    "36": "New York",
+    "37": "North Carolina",
+    "38": "North Dakota",
+    "39": "Ohio",
+    "4": "Arizona",
+    "40": "Oklahoma",
+    "41": "Oregon",
+    "42": "Pennsylvania",
+    "44": "Rhode Island",
+    "45": "South Carolina",
+    "46": "South Dakota",
+    "47": "Tennessee",
+    "48": "Texas",
+    "49": "Utah",
+    "5": "Arkansas",
+    "50": "Vermont",
+    "51": "Virginia",
+    "53": "Washington",
+    "54": "West Virginia",
+    "55": "Wisconsin",
+    "56": "Wyoming",
+    "6": "California",
+    "66": "Guam",
+    "70": "Palau",
+    "72": "Puerto Rico",
+    "78": "Virgin Islands",
+    "8": "Colorado",
+    "9": "Connecticut"
+  },
+  "_STOL1DN": {
+    "1": "Had a stool DNA test in the past 3 years",
+    "2": "Have had a stool DNA test 3 or more years ago",
+    "3": "Have never had a stool DNA test"
+  },
+  "_TOTINDA": {
+    "1": "Had physical activity or exercise",
+    "2": "No physical activity or exercise in last 30 days",
+    "9": "Don\u0092t know/Refused/Missing"
+  },
+  "_URBNRRL": {
+    "1": "Large central metro",
+    "2": "Large fringe metro",
+    "3": "Medium metro",
+    "4": "Small metro",
+    "5": "Micropolitan",
+    "6": "Noncore"
+  },
+  "_URBSTAT": {
+    "1": "Urban counties (_URBNRRL = 1,2,3,4,5)",
+    "2": "Rural counties (_URBNRRL = 6)"
+  },
+  "_VIR1COL": {
+    "1": "Had a virtual colonoscopy in the past 5 years",
+    "2": "Have not had a virtual colonoscopy in the past 5 or more years",
+    "3": "Have never had a virtual colonoscopy"
+  }
+}

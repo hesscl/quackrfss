@@ -1,0 +1,10 @@
+data/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.egg-info/
+dist/
+.DS_Store

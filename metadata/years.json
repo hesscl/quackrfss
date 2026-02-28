@@ -1,0 +1,62 @@
+{
+  "base_url": "https://www.cdc.gov",
+  "years": {
+    "2024": {
+      "xpt_zip":     "/brfss/annual_data/2024/files/LLCP2024XPT.zip",
+      "format_zip":  "/brfss/annual_data/2024/files/FORMAT24.zip",
+      "layout_html": "/brfss/annual_data/2024/llcp_varlayout_24_onecolumn.html",
+      "codebook_zip":"/brfss/annual_data/2024/zip/codebook24_llcp-v2-508.zip",
+      "records": 457670
+    },
+    "2023": {
+      "xpt_zip":     "/brfss/annual_data/2023/files/LLCP2023XPT.zip",
+      "format_zip":  "/brfss/annual_data/2023/files/FORMAT23.zip",
+      "layout_html": "/brfss/annual_data/2023/llcp_varlayout_23_onecolumn.html",
+      "codebook_zip":"/brfss/annual_data/2023/zip/codebook23_llcp-v2-508.zip",
+      "records": 433323
+    },
+    "2022": {
+      "xpt_zip":     "/brfss/annual_data/2022/files/LLCP2022XPT.zip",
+      "format_sas":  "/brfss/annual_data/2022/files/FORMAT22.sas",
+      "layout_html": "/brfss/annual_data/2022/llcp_varlayout_22_onecolumn.html",
+      "codebook_zip":"/brfss/annual_data/2022/zip/codebook22_llcp-v2-508.zip",
+      "records": 445132
+    },
+    "2021": {
+      "xpt_zip":     "/brfss/annual_data/2021/files/LLCP2021XPT.zip",
+      "format_sas":  "/brfss/annual_data/2021/files/FORMAT21.sas",
+      "layout_html": "/brfss/annual_data/2021/llcp_varlayout_21_onecolumn.html",
+      "codebook_zip":"/brfss/annual_data/2021/zip/codebook21_llcp-v2-508.zip",
+      "records": 438693
+    },
+    "2020": {
+      "xpt_zip":     "/brfss/annual_data/2020/files/LLCP2020XPT.zip",
+      "format_sas":  "/brfss/annual_data/2020/files/FORMAT20.sas",
+      "layout_html": "/brfss/annual_data/2020/llcp_varlayout_20_onecolumn.html",
+      "codebook_zip":"/brfss/annual_data/2020/zip/codebook20_llcp-v2-508.zip",
+      "records": 401958,
+      "notes": "COVID-19 methodology changes; telephone-only collection; response rate decline"
+    },
+    "2019": {
+      "xpt_zip":     "/brfss/annual_data/2019/files/LLCP2019XPT.zip",
+      "format_sas":  "/brfss/annual_data/2019/files/Format19.sas",
+      "layout_html": "/brfss/annual_data/2019/llcp_varlayout_19_onecolumn.html",
+      "codebook_zip":"/brfss/annual_data/2019/zip/codebook19_llcp-v2-508.zip",
+      "records": 418268
+    },
+    "2018": {
+      "xpt_zip":     "/brfss/annual_data/2018/files/LLCP2018XPT.zip",
+      "format_sas":  "/brfss/annual_data/2018/files/FORMAT18.sas",
+      "layout_html": "/brfss/annual_data/2018/llcp_varlayout_18_onecolumn.html",
+      "codebook_zip":"/brfss/annual_data/2018/zip/codebook18_llcp-v2-508.zip",
+      "records": 437436
+    },
+    "2017": {
+      "xpt_zip":     "/brfss/annual_data/2017/files/LLCP2017XPT.zip",
+      "format_sas":  "/brfss/annual_data/2017/files/Format17.sas",
+      "layout_html": "/brfss/annual_data/2017/llcp_varlayout_17_onecolumn.html",
+      "codebook_zip":"/brfss/annual_data/2017/zip/codebook17_llcp-v2-508.zip",
+      "records": 450016
+    }
+  }
+}

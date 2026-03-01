@@ -1,0 +1,1008 @@
+{
+  "AGE": {
+    "7": "DO NOT KNOW",
+    "9": "REFUSED",
+    "99": "VALID AGE"
+  },
+  "AIDSHIV": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "ALCOHOL": {
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "ARTHRIT": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "ASTHMA": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "BACON": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "BEEF": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "BEGSMOKE": {
+    "77": "DO NOT KNOW",
+    "99": "REFUSED"
+  },
+  "BLDSTOOL": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "BLOODAID": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "BLOODCHO": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "BPHIGH": {
+    "1": "NO",
+    "2": "YES, BY A DOCTOR",
+    "3": "YES, BY A NURSE",
+    "4": "YES, BY OTHER HEALTH PROFESSIONAL",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "BPTAKE": {
+    "1": "WITHIN THE PAST 6 MONTHS",
+    "2": "WITHIN THE PAST YEAR",
+    "3": "WITHIN THE PAST TWO YEARS",
+    "4": "WITHIN THE PAST FIVE YEARS",
+    "5": "MORE THAN 5 YEARS AGO",
+    "7": "DO NOT KNOW",
+    "8": "NEVER",
+    "9": "REFUSED"
+  },
+  "BPTREAT": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "BUCKLEUP": {
+    "1": "ALL THE TIME",
+    "2": "MOST OF THE TIME",
+    "3": "SOMETIMES",
+    "4": "RARELY",
+    "5": "NEVER",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "BUTTER": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "CANCERS": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "CARROTS": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "CHECKUP": {
+    "1": "WITHIN PAST YEAR",
+    "2": "WITHIN PAST TWO YEARS",
+    "3": "WITHIN PAST FIVE YEARS",
+    "4": "MORE THAN FIVE YEARS",
+    "7": "DO NOT KNOW",
+    "8": "NEVER",
+    "9": "REFUSED"
+  },
+  "CHEESE": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "CHOLCHK": {
+    "1": "WITHIN PAST YEAR",
+    "2": "WITHIN PAST TWO YEARS",
+    "3": "WITHIN PAST FIVE YEARS",
+    "4": "MORE THAN FIVE YEARS",
+    "7": "DO NOT KNOW",
+    "8": "NEVER",
+    "9": "REFUSED"
+  },
+  "CONDOM": {
+    "1": "VERY EFFECTIVE",
+    "2": "SOMEWHAT EFFECTIVE",
+    "3": "NOT AT ALL EFFECTIVE",
+    "4": "DO NOT KNOW HOW EFFECTIVE",
+    "5": "DO NOT KNOW METHOD",
+    "9": "REFUSED"
+  },
+  "COOKAIDS": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "CTYCODE": {
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "DETECTOR": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "DIABETES": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "DIGRECTL": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "DISPCODE": {
+    "1": "COMPLETED INTERVIEW",
+    "10": "LINE BUSY (MULTIPLE TRIES)",
+    "11": "RESPONDENT HAD PHYSICAL/MENTAL IMPAIRMENT",
+    "2": "REFUSED INTERVIEW",
+    "3": "NON WORKING NUMBER",
+    "4": "NO ANSWER (MULTIPLE TRIES)",
+    "5": "BUSINESS PHONE",
+    "6": "NO ELIGIBLE RESPONDENT AT THIS NUMBER",
+    "7": "NO ELIG RESPDT DURING INTERVIEWING PERIOD",
+    "8": "LANGUAGE BARRIER",
+    "9": "INTERVIEW TERMINATED WITHIN QUESTIONNAIRE"
+  },
+  "DOUGHNUT": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "DRINKANY": {
+    "1": "YES",
+    "2": "NO",
+    "9": "REFUSED"
+  },
+  "DRINKDRI": {
+    "77": "DO NOT KNOW",
+    "88": "NONE",
+    "99": "REFUSED"
+  },
+  "DRINKGE5": {
+    "77": "DO NOT KNOW",
+    "88": "NONE",
+    "99": "REFUSED"
+  },
+  "EDUCA": {
+    "1": "LESS THAN 9TH GRADE",
+    "2": "SOME HIGH SCHOOL",
+    "3": "HS GRAD OR GED CERT",
+    "4": "SOME TECHNICAL SCHOOL",
+    "5": "TECHNICAL SCHOOL GRAD",
+    "6": "SOME COLLEGE",
+    "7": "COLLEGE GRADUATE",
+    "8": "POST GRAD OR PROF. DEGREE",
+    "9": "REFUSED"
+  },
+  "EDUCAIDS": {
+    "55": "KINDERGARTEN",
+    "77": "DO NOT KNOW",
+    "88": "NEVER",
+    "99": "REFUSED"
+  },
+  "EGGS": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "EMPLOY": {
+    "1": "EMPLOYED FOR WAGES",
+    "2": "SELF EMPLOYED",
+    "3": "OUT OF WORK MORE THAN 1 YEAR",
+    "4": "OUT OF WORK LESS THAN 1 YEAR",
+    "5": "HOMEMAKER",
+    "6": "STUDENT",
+    "7": "RETIRED",
+    "9": "REFUSED"
+  },
+  "EXERACT1": {
+    "1": "AEROBICS CLASS",
+    "10": "CANOEING/ROWING-IN COMPETITION",
+    "11": "CARPENTRY",
+    "12": "DANCING-AEROBICS/BALLET",
+    "13": "FISHING",
+    "14": "GARDENING (SPADING, WEEDING, DIGGING, FILLING)",
+    "15": "GOLF",
+    "16": "HANDBALL",
+    "17": "HEALTH CLUB EXERISE",
+    "18": "HIKING-CROSS COUNTRY",
+    "19": "HOME EXERCISE",
+    "2": "BACK PACKING",
+    "20": "HORSEBACK RIDING",
+    "21": "HUNTING LARGE GAME-DEER, ELK",
+    "22": "JOGGING",
+    "23": "JUDO/KARATE",
+    "24": "MOUNTAIN CLIMBING",
+    "25": "MOWING LAWN",
+    "26": "PADDLEBALL",
+    "27": "PAINTING/PAPERING HOUSE",
+    "28": "RACKETBALL",
+    "29": "RAKING LAWN",
+    "3": "BADMINTON",
+    "30": "RUNNING",
+    "31": "ROPE SKIPPING",
+    "32": "SCUBA DIVING",
+    "33": "SKATING - ICE OR ROLLER",
+    "34": "SLEDDING, TOBOGGANING",
+    "35": "SNORKELING",
+    "36": "SNOW SHOEING",
+    "37": "SNOW SHOVELING BY HAND",
+    "38": "SNOW BLOWING",
+    "39": "SNOW SKIING",
+    "4": "BASKETBALL",
+    "40": "SOCCER",
+    "41": "SOFTBALL",
+    "42": "SQUASH",
+    "43": "STAIR CLIMBING",
+    "44": "STREAM FISHING IN WADERS",
+    "45": "SURFING",
+    "46": "SWIMMING LAPS",
+    "47": "TABLE TENNIS",
+    "48": "TENNIS",
+    "49": "TOUCH FOOTBALL",
+    "5": "BICYCLING FOR PLEASURE",
+    "50": "VOLLEY BALL",
+    "51": "WALKING",
+    "52": "WATER SKIING",
+    "53": "WEIGHT LIFTING",
+    "54": "OTHER",
+    "55": "BICYCLING MACHINE EXERCISE",
+    "56": "ROWING MACHINE EXERCISE",
+    "6": "BOATING (CANOEING,ROWING,SAILING,CAMPING/FOR PLEASURE)",
+    "7": "BOWLING",
+    "8": "BOXING",
+    "9": "CALISTHENICS",
+    "99": "REFUSED"
+  },
+  "EXERACT2": {
+    "99": "REFUSED"
+  },
+  "EXERANY": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "EXERDIS1": {
+    "1": "1 TENTH OF A MILE",
+    "10": "1 MILE",
+    "100": "10 MILES",
+    "150": "15 MILES",
+    "5": "5 TENTHS OF A MILE",
+    "50": "5 MILES",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "EXERDIS2": {
+    "1": "1 TENTH OF A MILE",
+    "10": "1 MILE",
+    "100": "10 MILES",
+    "150": "15 MILES",
+    "5": "5 TENTHS OF A MILE",
+    "50": "5 MILES",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "EXERHMM1": {
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "EXERHMM2": {
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "EXEROFT1": {
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "EXEROFT2": {
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "EXEROTH2": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "FEWCAL": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "FRENCHFR": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "FRIEDCHI": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "FRUIT": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "FRUITJUI": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "GREENSAL": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "HADBSTES": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HADHYST": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HADMAM": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HADPAP": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HADPROCT": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HADRECTL": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HAMBURG": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "HEADACHE": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HEIGHT": {
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "HIGHGT1": {
+    "1": "MORE THAN ONCE",
+    "2": "ONLY ONCE",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HISPANIC": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HLTHPLAN": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HLTHYAID": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HOSPBILL": {
+    "1": "ALL",
+    "2": "MOST",
+    "3": "SOME",
+    "4": "NONE",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HOTDOGS": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "HOWLONG": {
+    "1": "WITHIN PAST YEAR",
+    "2": "WITHIN PAST TWO YEARS",
+    "3": "WITHIN PAST FIVE YEARS",
+    "4": "MORE THAN FIVE YEARS AGO",
+    "7": "DO NOT KNOW",
+    "8": "NEVER",
+    "9": "REFUSED"
+  },
+  "HOWTEST": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HTF": {
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "HTI": {
+    "77": "DO NOT KNOW",
+    "99": "REFUSED"
+  },
+  "INCOME": {
+    "1": "LESS THAN $10,000",
+    "2": "$10,000 TO $14,999",
+    "3": "$15,000 TO $19,999",
+    "4": "$20,000 TO $24,999",
+    "5": "$25,000 TO $34,999",
+    "6": "$35,000 TO $50,000",
+    "7": "OVER $50,000",
+    "8": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "IPECAC": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "LASTBST": {
+    "1": "WITHIN PAST YEAR",
+    "2": "WITHIN PAST TWO YEARS",
+    "3": "WITHIN PAST FIVE YEARS",
+    "4": "MORE THAN FIVE YEARS AGO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "LASTEXAM": {
+    "1": "WITHIN PAST YEAR",
+    "2": "WITHIN PAST TWO YEARS",
+    "3": "WITHIN PAST FIVE YEARS",
+    "4": "MORE THAN FIVE YEARS AGO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "LASTPAP": {
+    "1": "WITHIN PAST YEAR",
+    "2": "WITHIN PAST TWO YEARS",
+    "3": "WITHIN PAST FIVE YEARS",
+    "4": "MORE THAN FIVE YEARS AGO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "LASTPROC": {
+    "1": "WITHIN PAST YEAR",
+    "2": "WITHIN PAST TWO YEARS",
+    "3": "WITHIN PAST FIVE YEARS",
+    "4": "MORE THAN FIVE YEARS AGO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "LASTSMOK": {
+    "1": "LESS THAN 1 MONTH",
+    "2": "1 MO TO LESS THAN 3 MOS",
+    "3": "3 MOS TO LESS THAN 6 MOS",
+    "4": "6 MOS TO LESS THAN 1 YR",
+    "5": "1 YEAR TO LESS THAN 5 YRS",
+    "6": "5 OR MORE YEARS",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "LENGEXAM": {
+    "1": "WITHIN PAST YEAR",
+    "2": "WITHIN PAST TWO YEARS",
+    "3": "WITHIN PAST FIVE YEARS",
+    "4": "MORE THAN FIVE YEARS AGO",
+    "7": "DO NOT KNOW",
+    "8": "NEVER",
+    "9": "REFUSED"
+  },
+  "LEVEL": {
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "LOSEWT": {
+    "1": "YES",
+    "2": "NO",
+    "9": "REFUSED"
+  },
+  "LUNGCAN": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "MAMMIDEA": {
+    "1": "RESPONDENT",
+    "2": "DOCTOR",
+    "3": "SOMEONE ELSE",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "MARITAL": {
+    "1": "MARRIED",
+    "2": "DIVORCED",
+    "3": "WIDOWED",
+    "4": "SEPARATED",
+    "5": "NEVER MARRIED",
+    "6": "UNMARRIED COUPLE",
+    "9": "REFUSED"
+  },
+  "MEDCOST": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "MEDSAIDS": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "MILK": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "NALCOCC": {
+    "77": "DO NOT KNOW",
+    "99": "REFUSED"
+  },
+  "OFFVISIT": {
+    "1": "ALL",
+    "2": "MOST",
+    "3": "SOME",
+    "4": "NONE",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "OPINION": {
+    "1": "AGREE",
+    "2": "DISAGREE",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "ORACE": {
+    "1": "WHITE",
+    "2": "BLACK",
+    "3": "ASIAN OR PACIFIC ISLANDER",
+    "4": "ALEUTIAN, ESKIMO OR AMERICAN INDIAN",
+    "5": "OTHER",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "PAPTEST": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "PHYACT": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "PLANTEST": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "POISON": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "PORK": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "POTATOES": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "PREGAIDS": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "PREGNANT": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "PREVCARE": {
+    "1": "ALL",
+    "2": "MOST",
+    "3": "SOME",
+    "4": "NONE",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "PROCEXAM": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "PROFAIDS": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "PROFEXAM": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "RACE": {
+    "1": "WHITE, NON-HISPANIC",
+    "2": "BLACK, NON-HISPANIC",
+    "3": "WHITE HISPANICS",
+    "4": "BLACK HISPANICS",
+    "5": "OTHER HISPANICS",
+    "6": "ASIAN/PACIFIC ISLAND",
+    "7": "ALU./ESK./AMERICAN INDIAN",
+    "8": "OTHER",
+    "99": "REFUSED"
+  },
+  "RADONGAS": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "REASEXAM": {
+    "1": "ROUTINE CHECKUP",
+    "2": "BREAST PROBLEM",
+    "3": "HAD BREAST CANCER",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "RESIDE": {
+    "1": "SINGLE FAMILY HOME/DUPLEX/TOWNHOUSE",
+    "2": "APT/CONDO/BASEMENT, 1ST OR 2ND FLOOR",
+    "3": "APT/CONDO/ABOVE 2ND FLOOR",
+    "4": "TRAILER/MOBILE HOME",
+    "5": "OTHER",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "SCHLAIDS": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "SEATBELT": {
+    "1": "ALWAYS",
+    "2": "NEARLY ALWAYS",
+    "3": "SOMETIMES",
+    "4": "SELDOM",
+    "5": "NEVER",
+    "7": "DO NOT KNOW",
+    "8": "NEVER DRIVE OR RIDE IN A CAR",
+    "9": "REFUSED"
+  },
+  "SEX": {
+    "1": "MALE",
+    "2": "FEMALE"
+  },
+  "SMOKE100": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "SMOKENOW": {
+    "1": "YES",
+    "2": "NO",
+    "9": "REFUSED"
+  },
+  "SMOKENUM": {
+    "88": "NOT REGULAR SMOKER",
+    "99": "REFUSED"
+  },
+  "SNACKS": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "STOPSMOK": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "TEST1AID": {
+    "1": "PRIVATE DOCTOR, HMO",
+    "10": "MILITARY INDUCTION OR EXAMINATION",
+    "2": "BLOOD BANK, PLASMA CENTER, RED CROSS",
+    "3": "HEALTH DEPARTMENT",
+    "4": "AIDS CLINIC, AIDS TESTING SITE",
+    "5": "HOSPITAL, EMERGENCY ROOM",
+    "6": "FAMILY PLANNING CLINIC",
+    "7": "STD CLINIC",
+    "77": "DO NOT KNOW",
+    "8": "COMMUNITY HEALTH OR PRIMARY CARE CLINIC",
+    "87": "OTHER",
+    "88": "NO PLACE",
+    "9": "COMPANY OR INDUSTRY CLINIC",
+    "99": "REFUSED"
+  },
+  "TEST2AID": {
+    "77": "DO NOT KNOW",
+    "87": "OTHER",
+    "88": "NO PLACE",
+    "99": "REFUSED"
+  },
+  "TESTAIR": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "TESTH2O": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "TOLDHI": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "TOLDLEV": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "USEEVER": {
+    "1": "YES, CHEWING TOBACCO",
+    "2": "YES, SNUFF",
+    "3": "YES, BOTH",
+    "4": "NO, NEITHER",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "USENOW": {
+    "1": "YES, CHEWING TOBACCO",
+    "2": "YES, SNUFF",
+    "3": "YES, BOTH",
+    "4": "NO, NEITHER",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "VEGETABL": {
+    "555": "NEVER",
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "WEIGHT": {
+    "777": "DO NOT KNOW",
+    "999": "REFUSED"
+  },
+  "WHENDUE": {
+    "1": "JANUARY",
+    "10": "OCTOBER",
+    "11": "NOVEMBER",
+    "12": "DECEMBER",
+    "2": "FEBRUARY",
+    "3": "MARCH",
+    "4": "APRIL",
+    "5": "MAY",
+    "6": "JUNE",
+    "7": "JULY",
+    "77": "DO NOT KNOW",
+    "8": "AUGUST",
+    "9": "SEPTEMBER",
+    "99": "REFUSED"
+  },
+  "WHYDONE": {
+    "1": "ROUTINE CHECKUP",
+    "2": "BREAST PROBLEM",
+    "3": "HAD BREAST CANCER",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "WINDDOWN": {
+    "9": "WINDDOWN"
+  },
+  "WORKAIDS": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "YOUNGAGE": {
+    "-17": "CHILD",
+    "77": "DO NOT KNOW",
+    "88": "NO CHILDREN IN HOUSEHOLD",
+    "89": "CHILD LESS THAN 1 YEAR",
+    "99": "REFUSED"
+  },
+  "YOUNGCLD": {
+    "1": "YES",
+    "2": "NO",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "_AGE65YR": {
+    "1": "18-64",
+    "2": "65+",
+    "3": "REFUSED"
+  },
+  "_AGEG": {
+    "1": "18-34",
+    "2": "35-54",
+    "3": "55+"
+  },
+  "_AGEG5YR": {
+    "1": "18-24",
+    "10": "65-69",
+    "11": "70-74",
+    "12": "75-79",
+    "13": "80+",
+    "14": "REFUSED",
+    "2": "25-29",
+    "3": "30-34",
+    "4": "35-39",
+    "5": "40-44",
+    "6": "45-49",
+    "7": "50-54",
+    "8": "55-59",
+    "9": "60-64"
+  },
+  "_AGEG_": {
+    "1": "18-24",
+    "2": "25-34",
+    "3": "35-44",
+    "4": "45-54",
+    "5": "55-64",
+    "6": "65+"
+  },
+  "_BMI": {
+    "999": "UNKNOWN (1 DECIMAL PLACE IMPLIED)"
+  },
+  "_BPCHECK": {
+    "1": "BLOOD PRESSURE CHECKED WITHIN THE PAST 2 YRS.",
+    "2": "BLOOD PRESSURE NOT CHECKED WITH THE PAST 2 YRS.",
+    "9": "REFUSED/UNKNOWN"
+  },
+  "_CHOLCHK": {
+    "1": "CHOLESTEROL CHECKED WITHIN THE PAST 5 YRS.",
+    "2": "CHOLESTEROL NOT CHECKED WITH THE PAST 5 YRS.",
+    "9": "REFUSED/UNKNOWN"
+  },
+  "_DRNKMO": {
+    "-1000": "NUMBER OF DRINKS",
+    "8888": "DID NOT DRINK IN PAST MONTH",
+    "9999": "REFUSED"
+  },
+  "_FATINDX": {
+    "1": "25TH OR LESS PERCENTILE",
+    "2": "25TH TO 75TH PERCENTILE",
+    "3": "GREATER THAN 75TH PERCENTILE",
+    "9": "UNK/REFUSED"
+  },
+  "_FRTINDX": {
+    "1": "LESS THAN ONCE PER DAY OR NEVER",
+    "2": "1 TO LESS THAN 3 TIMES PER DAY",
+    "3": "3 TO LESS THAN 5 TIMES PER DAY",
+    "4": "5 OR MORE TIMES PER DAY",
+    "9": "UNK/REFUSED"
+  },
+  "_FRTSERV": {
+    "99999": "UNKNOWN (2 DECIMAL PLACES IMPLIED)"
+  },
+  "_GRAMFAT": {
+    "999999": "UNKNOWN (2 DECIMAL PLACES IMPLIED)"
+  },
+  "_RACEG": {
+    "1": "WHITE, NON-HISPANIC",
+    "2": "NON-WHITE",
+    "7": "DO NOT KNOW",
+    "9": "REFUSED"
+  },
+  "_RACEGR": {
+    "1": "WHITE, NON-HISPANIC",
+    "2": "BLACK, NON-HISPANIC",
+    "3": "HISPANIC",
+    "4": "OTHER",
+    "9": "REFUSED"
+  },
+  "_RFSEATB": {
+    "1": "NOT AT RISK",
+    "2": "AT RISK",
+    "9": "REFUSED"
+  },
+  "_SMKLESS": {
+    "1": "CURRENT USER",
+    "2": "FORMER USER",
+    "3": "NEVER USED",
+    "9": "UNKNOWN"
+  },
+  "_SMOKER": {
+    "1": "CURRENT SMOKER",
+    "2": "FORMER SMOKER",
+    "3": "NEVER SMOKED",
+    "4": "NOT REGULAR SMOKER",
+    "9": "REFUSED ONE OR MORE SMOKING QUESTIONS"
+  },
+  "_TOTINDX": {
+    "1": "SEDENTARY",
+    "2": "IRREGULAR ACTIVITY",
+    "3": "REGULAR ACTIVITY",
+    "4": "1990 OBJECTIVE",
+    "9": "UNKNOWN"
+  },
+  "_WTFORHT": {
+    "99999": "UNKNOWN (2 DECIMAL PLACES IMPLIED)"
+  }
+}

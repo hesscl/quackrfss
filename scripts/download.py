@@ -85,8 +85,9 @@ def download_years(
     base_url = manifest["base_url"]
     year_data = manifest["years"]
 
-    # format_zip (2023-2024) and format_sas (2017-2022) are alternate keys for the same thing
-    keys = ["xpt_zip", "format_zip", "format_sas", "layout_html"]
+    # format_zip (2023-2024), format_sas (2000-2022), sasout_sas (1990-1999) are
+    # alternate keys for value-label sources depending on the year
+    keys = ["xpt_zip", "format_zip", "format_sas", "sasout_sas", "layout_html"]
     if not skip_codebook:
         keys.append("codebook_zip")
 

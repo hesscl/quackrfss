@@ -57,6 +57,164 @@
       "layout_html": "/brfss/annual_data/2017/llcp_varlayout_17_onecolumn.html",
       "codebook_zip":"/brfss/annual_data/2017/zip/codebook17_llcp-v2-508.zip",
       "records": 450016
+    },
+    "2016": {
+      "xpt_zip":     "/brfss/annual_data/2016/files/LLCP2016XPT.zip",
+      "format_sas":  "/brfss/annual_data/2016/files/Format16.sas",
+      "layout_html": "/brfss/annual_data/2016/llcp_varlayout_16_onecolumn.html",
+      "records": 486303
+    },
+    "2015": {
+      "xpt_zip":     "/brfss/annual_data/2015/files/LLCP2015XPT.zip",
+      "format_sas":  "/brfss/annual_data/2015/files/Format15.sas",
+      "layout_html": "/brfss/annual_data/2015/llcp_varlayout_15_onecolumn.html",
+      "records": 441456
+    },
+    "2014": {
+      "xpt_zip":     "/brfss/annual_data/2014/files/LLCP2014XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2014/files/FORMAT14.sas",
+      "layout_html": "/brfss/annual_data/2014/LLCP_VarLayout_14_OneColumn.html",
+      "records": 464664
+    },
+    "2013": {
+      "xpt_zip":     "/brfss/annual_data/2013/files/LLCP2013XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2013/files/Format13.sas",
+      "layout_html": "/brfss/annual_data/2013/LLCP_VarLayout_13_OneColumn.html",
+      "records": 491773
+    },
+    "2012": {
+      "xpt_zip":     "/brfss/annual_data/2012/files/LLCP2012XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2012/files/Format12.sas",
+      "layout_html": "/brfss/annual_data/2012/LLCP_VarLayout_12_OneColumn.HTML",
+      "records": 475687
+    },
+    "2011": {
+      "xpt_zip":     "/brfss/annual_data/2011/files/LLCP2011XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2011/files/Format11.sas",
+      "records": 506467,
+      "notes": "No variable layout HTML on annual page; layout available as PDF only: /brfss/annual_data/2011/pdf/LLCP_VarLayout_11_OneColumn.pdf"
+    },
+    "2010": {
+      "xpt_zip":     "/brfss/annual_data/2010/files/CDBRFS10XPT.zip",
+      "format_sas":  "/brfss/annual_data/2010/files/Format10.sas",
+      "layout_html": "/brfss/annual_data/2010/varLayout_table_10.htm",
+      "records": 451075,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). Layout HTML has 3 columns only: start, name, length (no labels)."
+    },
+    "2009": {
+      "xpt_zip":     "/brfss/annual_data/2009/files/CDBRFS09XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2009/files/Format09.sas",
+      "layout_html": "/brfss/annual_data/2009/varLayout_table_09.html",
+      "records": 432607,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). Layout HTML has 3 columns only: start, name, length (no labels)."
+    },
+    "2008": {
+      "xpt_zip":     "/brfss/annual_data/2008/files/CDBRFS08XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2008/files/Format08.sas",
+      "layout_html": "/brfss/annual_data/2008/varLayout_table_08.htm",
+      "records": 414509,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). Layout HTML has 3 columns only: start, name, length (no labels)."
+    },
+    "2007": {
+      "xpt_zip":     "/brfss/annual_data/2007/files/CDBRFS07XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2007/files/Format07.sas",
+      "layout_html": "/brfss/annual_data/2007/varLayout_table_07.html",
+      "records": 430912,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). Layout HTML has 3 columns only: start, name, length (no labels)."
+    },
+    "2006": {
+      "xpt_zip":     "/brfss/annual_data/2006/files/CDBRFS06XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2006/files/format06.sas",
+      "layout_html": "/brfss/annual_data/2006/varlayout_table_06.htm",
+      "records": 355710,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). Layout HTML has 3 columns only: start, name, length (no labels)."
+    },
+    "2005": {
+      "xpt_zip":     "/brfss/annual_data/2005/files/CDBRFS05XPT.zip",
+      "format_sas":  "/brfss/annual_data/2005/files/Format05.sas",
+      "records": 356112,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). No variable layout HTML; PDF only: /brfss/annual_data/2005/pdf/VarLayout_05.pdf"
+    },
+    "2004": {
+      "xpt_zip":     "/brfss/annual_data/2004/files/CDBRFS04XPT.zip",
+      "format_sas":  "/brfss/annual_data/2004/files/Format04.sas",
+      "records": 303822,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). No variable layout HTML; PDF only: /brfss/annual_data/2004/pdf/VarLayout_04.pdf"
+    },
+    "2003": {
+      "xpt_zip":     "/brfss/annual_data/2003/files/CDBRFS03XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2003/files/format03.sas",
+      "records": 264684,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). No variable layout HTML; PDF only: /brfss/annual_data/2003/pdf/varLayout_03.pdf"
+    },
+    "2002": {
+      "xpt_zip":     "/brfss/annual_data/2002/files/CDBRFS02XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2002/files/format02.sas",
+      "records": 247964,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). No variable layout HTML; PDF only: /brfss/annual_data/2002/pdf/varLayout_02.pdf"
+    },
+    "2001": {
+      "xpt_zip":     "/brfss/annual_data/2001/files/CDBRFS01XPT.zip",
+      "format_sas":  "/brfss/annual_data/2001/files/Format01.sas",
+      "records": 212510,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). No variable layout HTML; PDF only: /brfss/annual_data/2001/pdf/varLayout_01.pdf"
+    },
+    "2000": {
+      "xpt_zip":     "/brfss/annual_data/2000/files/CDBRFS00XPT.ZIP",
+      "format_sas":  "/brfss/annual_data/2000/files/FORMAT00.SAS",
+      "records": 184450,
+      "notes": "Pre-cellphone era; uses _FINALWT weighting (not _LLCPWT). XPT prefix CDBRFS (not LLCP). No variable layout HTML; PDF only: /brfss/annual_data/2000/pdf/varLayout_00.pdf"
+    },
+    "1999": {
+      "xpt_zip":    "/brfss/annual_data/1999/files/CDBRFS99XPT.zip",
+      "sasout_sas": "/brfss/annual_data/1999/files/SASOUT99.sas",
+      "notes": "Early BRFSS; uses _FINALWT weighting. XPT prefix CDBRFS. No PROC FORMAT file (Format99.sc2 is a compiled binary). Value labels parsed from SASOUT99.sas comment blocks. No layout HTML; PDF only: /brfss/annual_data/1999/pdf/VarLayout_99.pdf"
+    },
+    "1998": {
+      "xpt_zip":   "/brfss/annual_data/1998/files/CDBRFS98XPT.zip",
+      "format_sas": "/brfss/annual_data/1998/files/Format98.sas",
+      "notes": "Early BRFSS; uses _FINALWT weighting. XPT prefix CDBRFS. Has a proper PROC FORMAT file (Format98.sas); parsed by parse_formats. No layout HTML; PDF only: /brfss/annual_data/1998/pdf/VarLayout_98.pdf"
+    },
+    "1997": {
+      "xpt_zip":    "/brfss/annual_data/1997/files/CDBRFS97XPT.zip",
+      "sasout_sas": "/brfss/annual_data/1997/files/SASOUT97.sas",
+      "notes": "Early BRFSS; uses _FINALWT weighting. XPT prefix CDBRFS. FORMAT97.TXT is a column-position layout (not value labels). Value labels parsed from SASOUT97.sas comment blocks. No layout HTML."
+    },
+    "1996": {
+      "xpt_zip":    "/brfss/annual_data/1996/files/CDBRFS96XPT.zip",
+      "sasout_sas": "/brfss/annual_data/1996/files/SASOUT96.SAS",
+      "notes": "Early BRFSS; uses _FINALWT weighting. XPT prefix CDBRFS. FORMAT96.TXT is a column-position layout (not value labels). Value labels parsed from SASOUT96.SAS comment blocks. No layout HTML."
+    },
+    "1995": {
+      "xpt_zip":    "/brfss/annual_data/1995/files/CDBRFS95XPT.zip",
+      "sasout_sas": "/brfss/annual_data/1995/files/sasout95.sas",
+      "notes": "Early BRFSS; uses _FINALWT weighting. XPT prefix CDBRFS. Value labels parsed from sasout95.sas comment blocks. No layout HTML; PDF only: /brfss/annual_data/1995/pdf/layout95.pdf"
+    },
+    "1994": {
+      "xpt_zip":    "/brfss/annual_data/1994/files/CDBRFS94XPT.zip",
+      "sasout_sas": "/brfss/annual_data/1994/files/sasout94.SAS",
+      "notes": "Early BRFSS; uses _FINALWT weighting. XPT prefix CDBRFS. Value labels parsed from sasout94.SAS comment blocks. No layout HTML; PDF only: /brfss/annual_data/1994/pdf/layout94.pdf"
+    },
+    "1993": {
+      "xpt_zip":    "/brfss/annual_data/1993/files/CDBRFS93XPT.zip",
+      "sasout_sas": "/brfss/annual_data/1993/files/sasout93.sas",
+      "notes": "Early BRFSS; uses _FINALWT weighting. XPT prefix CDBRFS. Value labels parsed from sasout93.sas comment blocks. No layout HTML; PDF only: /brfss/annual_data/1993/pdf/layout93.pdf"
+    },
+    "1992": {
+      "xpt_zip":    "/brfss/annual_data/1992/files/CDBRFS92XPT.zip",
+      "sasout_sas": "/brfss/annual_data/1992/files/sasout92.sas",
+      "notes": "Early BRFSS; uses _FINALWT weighting. XPT prefix CDBRFS. Value labels parsed from sasout92.sas comment blocks. No layout HTML; PDF only: /brfss/annual_data/1992/pdf/layout92.pdf"
+    },
+    "1991": {
+      "xpt_zip":    "/brfss/annual_data/1991/files/CDBRFS91XPT.zip",
+      "sasout_sas": "/brfss/annual_data/1991/files/sasout91.sas",
+      "notes": "Early BRFSS; uses _FINALWT weighting. XPT prefix CDBRFS. Value labels parsed from sasout91.sas comment blocks. No layout HTML."
+    },
+    "1990": {
+      "xpt_zip":    "/brfss/annual_data/1990/files/CDBRFS90XPT.zip",
+      "sasout_sas": "/brfss/annual_data/1990/files/sasout90.sas",
+      "records": 81557,
+      "notes": "Earliest year in pipeline. Uses _FINALWT weighting. XPT prefix CDBRFS. Value labels parsed from sasout90.sas comment blocks. No layout HTML."
     }
   }
 }

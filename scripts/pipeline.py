@@ -28,7 +28,7 @@ import click
 from rich.console import Console
 from rich.rule import Rule
 
-from scripts import download, parse_formats, parse_layout, load, schema
+from scripts import download, parse_formats, parse_layout, parse_sasout, load, schema
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DB = REPO_ROOT / "brfss.duckdb"
@@ -84,10 +84,11 @@ def main(
     for year in target_years_sorted:
         parse_layout.parse_year(year, manifest, force=force)
 
-    # Stage 2b: Parse value labels
+    # Stage 2b: Parse value labels (PROC FORMAT files for 2000+, sasout for 1990-1999)
     console.print(Rule("Stage 2b — Parse Formats"))
     for year in target_years_sorted:
         parse_formats.parse_year(year, manifest, force=force)
+        parse_sasout.parse_year(year, manifest, force=force)
 
     # Stage 3: Load to Parquet
     console.print(Rule("Stage 3 — Load to Parquet"))

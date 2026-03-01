@@ -1,0 +1,1753 @@
+[
+  {
+    "var": "_STATE",
+    "start": 1,
+    "length": 2,
+    "label": "STATE FIPS CODE"
+  },
+  {
+    "var": "_GEOSTR",
+    "start": 3,
+    "length": 2,
+    "label": "GEOGRAPHIC STRATUM CODE"
+  },
+  {
+    "var": "_DENSTR2",
+    "start": 5,
+    "length": 1,
+    "label": "HOUSEHOLD DENSITY STRATUM CODE"
+  },
+  {
+    "var": "PRECALL",
+    "start": 6,
+    "length": 1,
+    "label": "PRE-CALL STATUS CODE"
+  },
+  {
+    "var": "REPNUM",
+    "start": 7,
+    "length": 5,
+    "label": "REPLICATE NUMBER"
+  },
+  {
+    "var": "REPDEPTH",
+    "start": 12,
+    "length": 2,
+    "label": "REPLICATE DEPTH"
+  },
+  {
+    "var": "FMONTH",
+    "start": 14,
+    "length": 2,
+    "label": "FILE MONTH"
+  },
+  {
+    "var": "IDATE",
+    "start": 16,
+    "length": 8,
+    "label": "INTERVIEW DATE"
+  },
+  {
+    "var": "IMONTH",
+    "start": 16,
+    "length": 2,
+    "label": "INTERVIEW MONTH"
+  },
+  {
+    "var": "IDAY",
+    "start": 18,
+    "length": 2,
+    "label": "INTERVIEW DAY"
+  },
+  {
+    "var": "IYEAR",
+    "start": 20,
+    "length": 4,
+    "label": "INTERVIEW YEAR"
+  },
+  {
+    "var": "INTVID",
+    "start": 24,
+    "length": 3,
+    "label": "INTERVIEWER IDENTIFICATION"
+  },
+  {
+    "var": "DISPCODE",
+    "start": 27,
+    "length": 3,
+    "label": "FINAL DISPOSITION"
+  },
+  {
+    "var": "SEQNO",
+    "start": 30,
+    "length": 10,
+    "label": "ANNUAL SEQUENCE NUMBER"
+  },
+  {
+    "var": "_PSU",
+    "start": 30,
+    "length": 10,
+    "label": "PRIMARY SAMPLING UNIT"
+  },
+  {
+    "var": "NATTMPTS",
+    "start": 40,
+    "length": 2,
+    "label": "NUMBER OF ATTEMPTS"
+  },
+  {
+    "var": "NRECSEL",
+    "start": 42,
+    "length": 6,
+    "label": "NUMBER OF SAMPLE RECORDS SELECTED FROM S"
+  },
+  {
+    "var": "NRECSTR",
+    "start": 48,
+    "length": 9,
+    "label": "NUMBER OF TELEPHONE NUMBERS IN STRATUM F"
+  },
+  {
+    "var": "CTELENUM",
+    "start": 57,
+    "length": 1,
+    "label": "CORRECT TELEPHONE NUMBER?"
+  },
+  {
+    "var": "CELLFON",
+    "start": 58,
+    "length": 1,
+    "label": "CELLULAR TELEPHONE"
+  },
+  {
+    "var": "PVTRESID",
+    "start": 59,
+    "length": 1,
+    "label": "PRIVATE RESIDENCE?"
+  },
+  {
+    "var": "NUMADULT",
+    "start": 60,
+    "length": 2,
+    "label": "NUMBER OF ADULTS IN HOUSEHOLD"
+  },
+  {
+    "var": "NUMMEN",
+    "start": 62,
+    "length": 2,
+    "label": "NUMBER OF ADULT MEN IN HOUSEHOLD"
+  },
+  {
+    "var": "NUMWOMEN",
+    "start": 64,
+    "length": 2,
+    "label": "NUMBER OF ADULT WOMEN IN HOUSEHOLD"
+  },
+  {
+    "var": "GENHLTH",
+    "start": 73,
+    "length": 1,
+    "label": "GENERAL HEALTH"
+  },
+  {
+    "var": "PHYSHLTH",
+    "start": 74,
+    "length": 2,
+    "label": "NUMBER OF DAYS PHYSICAL HEALTH NOT GOOD"
+  },
+  {
+    "var": "MENTHLTH",
+    "start": 76,
+    "length": 2,
+    "label": "NUMBER OF DAYS MENTAL HEALTH NOT GOOD"
+  },
+  {
+    "var": "POORHLTH",
+    "start": 78,
+    "length": 2,
+    "label": "POOR PHYSICAL HEALTH"
+  },
+  {
+    "var": "HLTHPLAN",
+    "start": 80,
+    "length": 1,
+    "label": "HAVE ANY HEALTH CARE COVERAGE"
+  },
+  {
+    "var": "PERSDOC2",
+    "start": 81,
+    "length": 1,
+    "label": "MULTIPLE HEALTH CARE PROFESSIONALS"
+  },
+  {
+    "var": "MEDCOST",
+    "start": 82,
+    "length": 1,
+    "label": "COULD NOT SEE DR. BECAUSE OF COST"
+  },
+  {
+    "var": "CHECKUP1",
+    "start": 83,
+    "length": 1,
+    "label": "LENGTH OF TIME SINCE LAST ROUTINE CHECKU"
+  },
+  {
+    "var": "QLREST2",
+    "start": 84,
+    "length": 2,
+    "label": "HOW MANY DAYS DID YOU GET ENOUGH SLEEP I"
+  },
+  {
+    "var": "EXERANY2",
+    "start": 86,
+    "length": 1,
+    "label": "EXERCISE IN PAST 30 DAYS"
+  },
+  {
+    "var": "DIABETE2",
+    "start": 87,
+    "length": 1,
+    "label": "EVER TOLD BY DOCTOR YOU HAVE DIABETES"
+  },
+  {
+    "var": "LASTDEN3",
+    "start": 88,
+    "length": 1,
+    "label": "LAST VISITED DENTIST OR DENTAL CLINIC"
+  },
+  {
+    "var": "RMVTETH3",
+    "start": 89,
+    "length": 1,
+    "label": "NUMBER OF PERMANENT TEETH REMOVED"
+  },
+  {
+    "var": "DENCLEAN",
+    "start": 90,
+    "length": 1,
+    "label": "WHEN TEETH LAST CLEANED BY DENTIST OR HY"
+  },
+  {
+    "var": "CVDINFR4",
+    "start": 91,
+    "length": 1,
+    "label": "EVER DIAGNOSED WITH HEART ATTACK"
+  },
+  {
+    "var": "CVDCRHD4",
+    "start": 92,
+    "length": 1,
+    "label": "EVER DIAGNOSED WITH ANGINA OR CORONARY H"
+  },
+  {
+    "var": "CVDSTRK3",
+    "start": 93,
+    "length": 1,
+    "label": "EVER DIAGNOSED WITH A STROKE"
+  },
+  {
+    "var": "ASTHMA2",
+    "start": 94,
+    "length": 1,
+    "label": "EVER TOLD HAD ASTHMA"
+  },
+  {
+    "var": "ASTHNOW",
+    "start": 95,
+    "length": 1,
+    "label": "STILL HAVE ASTHMA"
+  },
+  {
+    "var": "QLACTLM2",
+    "start": 96,
+    "length": 1,
+    "label": "ACTIVITY LIMITATION DUE TO HEALTH PROBLE"
+  },
+  {
+    "var": "USEEQUIP",
+    "start": 97,
+    "length": 1,
+    "label": "HEALTH PROBLEMS REQUIRING SPECIAL EQUIPM"
+  },
+  {
+    "var": "SMOKE100",
+    "start": 98,
+    "length": 1,
+    "label": "SMOKED AT LEAST 100 CIGARETTES"
+  },
+  {
+    "var": "SMOKDAY2",
+    "start": 99,
+    "length": 1,
+    "label": "FREQUENCY OF DAYS NOW SMOKING"
+  },
+  {
+    "var": "STOPSMK2",
+    "start": 100,
+    "length": 1,
+    "label": "STOPPED SMOKING IN PAST 12 MONTHS"
+  },
+  {
+    "var": "AGE",
+    "start": 101,
+    "length": 2,
+    "label": "REPORTED AGE IN YEARS"
+  },
+  {
+    "var": "HISPANC2",
+    "start": 103,
+    "length": 1,
+    "label": "HISPANIC/LATINO"
+  },
+  {
+    "var": "MRACE",
+    "start": 104,
+    "length": 6,
+    "label": "MULTIPLE RACE"
+  },
+  {
+    "var": "ORACE2",
+    "start": 110,
+    "length": 1,
+    "label": "RESPONDENT RACE CHOICE"
+  },
+  {
+    "var": "VETERAN1",
+    "start": 111,
+    "length": 1,
+    "label": "ARE YOU A VETERAN"
+  },
+  {
+    "var": "MARITAL",
+    "start": 112,
+    "length": 1,
+    "label": "MARITAL STATUS"
+  },
+  {
+    "var": "CHILDREN",
+    "start": 113,
+    "length": 2,
+    "label": "NUMBER OF CHILDREN IN HOUSEHOLD"
+  },
+  {
+    "var": "EDUCA",
+    "start": 115,
+    "length": 1,
+    "label": "EDUCATION LEVEL"
+  },
+  {
+    "var": "EMPLOY",
+    "start": 116,
+    "length": 1,
+    "label": "EMPLOYMENT STATUS"
+  },
+  {
+    "var": "INCOME2",
+    "start": 117,
+    "length": 2,
+    "label": "INCOME LEVEL"
+  },
+  {
+    "var": "WEIGHT2",
+    "start": 119,
+    "length": 4,
+    "label": "REPORTED WEIGHT IN POUNDS"
+  },
+  {
+    "var": "HEIGHT3",
+    "start": 123,
+    "length": 4,
+    "label": "REPORTED HEIGHT IN FEET AND INCHES"
+  },
+  {
+    "var": "WTYRAGO",
+    "start": 127,
+    "length": 4,
+    "label": "REPORTED WEIGHT YEAR AGO IN POUNDS"
+  },
+  {
+    "var": "WTCHGINT",
+    "start": 131,
+    "length": 1,
+    "label": "CHANGE IN WEIGHT SINCE YEAR AGO"
+  },
+  {
+    "var": "CTYCODE",
+    "start": 132,
+    "length": 3,
+    "label": "COUNTY CODE"
+  },
+  {
+    "var": "NUMHHOL2",
+    "start": 140,
+    "length": 1,
+    "label": "HOUSEHOLD TELEPHONES"
+  },
+  {
+    "var": "NUMPHON2",
+    "start": 141,
+    "length": 1,
+    "label": "RESIDENTIAL PHONES"
+  },
+  {
+    "var": "TELSERV2",
+    "start": 142,
+    "length": 1,
+    "label": "LOST PHONE SERVICE ONE WEEK+ LAST 12 MOS"
+  },
+  {
+    "var": "SEX",
+    "start": 143,
+    "length": 1,
+    "label": "RESPONDENTS SEX"
+  },
+  {
+    "var": "PREGNANT",
+    "start": 144,
+    "length": 1,
+    "label": "PREGNANCY STATUS"
+  },
+  {
+    "var": "DRNKANY4",
+    "start": 145,
+    "length": 1,
+    "label": "DRINK ANY ALCOHOLIC BEVERAGES IN PAST 30"
+  },
+  {
+    "var": "ALCDAY4",
+    "start": 146,
+    "length": 3,
+    "label": "DAYS IN PAST 30 HAD ALCOHOLIC BEVERAGE"
+  },
+  {
+    "var": "AVEDRNK2",
+    "start": 149,
+    "length": 2,
+    "label": "AVG ALCOHOLIC DRINKS PER DAY IN PAST 30"
+  },
+  {
+    "var": "DRNK3GE5",
+    "start": 151,
+    "length": 2,
+    "label": "BINGE DRINKING"
+  },
+  {
+    "var": "MAXDRNKS",
+    "start": 153,
+    "length": 2,
+    "label": "MOST DRINKS ON SINGLE OCCASION PAST 30 D"
+  },
+  {
+    "var": "FLUSHOT3",
+    "start": 155,
+    "length": 1,
+    "label": "FLU SHOT PAST 12 MOS"
+  },
+  {
+    "var": "FLUSHTMY",
+    "start": 156,
+    "length": 6,
+    "label": "WHEN RECEIVED MOST RECENT FLU SHOT"
+  },
+  {
+    "var": "FLUSPRY2",
+    "start": 162,
+    "length": 1,
+    "label": "FLU SPRAY PAST 12 MOS"
+  },
+  {
+    "var": "FLUSPRMY",
+    "start": 163,
+    "length": 6,
+    "label": "WHEN RECEIVED MOST RECENT FLU SPRAY IN N"
+  },
+  {
+    "var": "PNEUVAC3",
+    "start": 169,
+    "length": 1,
+    "label": "PNEUMONIA SHOT EVER"
+  },
+  {
+    "var": "FALL3MN2",
+    "start": 170,
+    "length": 2,
+    "label": "HAD FALL PAST THREE MONTHS"
+  },
+  {
+    "var": "FALLINJ2",
+    "start": 172,
+    "length": 2,
+    "label": "INJURED IN FALL"
+  },
+  {
+    "var": "SEATBELT",
+    "start": 174,
+    "length": 1,
+    "label": "HOW OFTEN USE SEATBELTS IN CAR?"
+  },
+  {
+    "var": "DRNKDRI2",
+    "start": 175,
+    "length": 2,
+    "label": "DID YOU DRIVE AFTER HAVING TOO MUCH TO D"
+  },
+  {
+    "var": "HADMAM",
+    "start": 177,
+    "length": 1,
+    "label": "HAVE YOU EVER HAD A MAMMOGRAM"
+  },
+  {
+    "var": "HOWLONG",
+    "start": 178,
+    "length": 1,
+    "label": "HOW LONG SINCE LAST MAMMOGRAM"
+  },
+  {
+    "var": "PROFEXAM",
+    "start": 179,
+    "length": 1,
+    "label": "EVER HAD BREAST PHYSICAL EXAM BY DOCTOR"
+  },
+  {
+    "var": "LENGEXAM",
+    "start": 180,
+    "length": 1,
+    "label": "HOW LONG SINCE LAST BREAST PHYSICAL EXAM"
+  },
+  {
+    "var": "HADPAP2",
+    "start": 181,
+    "length": 1,
+    "label": "EVER HAD A PAP TEST"
+  },
+  {
+    "var": "LASTPAP2",
+    "start": 182,
+    "length": 1,
+    "label": "HOW LONG SINCE LAST PAP TEST"
+  },
+  {
+    "var": "HADHYST2",
+    "start": 183,
+    "length": 1,
+    "label": "HAD HYSTERECTOMY"
+  },
+  {
+    "var": "PSATEST",
+    "start": 184,
+    "length": 1,
+    "label": "EVER HAD PSA TEST"
+  },
+  {
+    "var": "PSATIME",
+    "start": 185,
+    "length": 1,
+    "label": "TIME SINCE LAST PSA TEST"
+  },
+  {
+    "var": "DIGRECEX",
+    "start": 186,
+    "length": 1,
+    "label": "EVER HAD DIGITAL RECTAL EXAM"
+  },
+  {
+    "var": "DRETIME",
+    "start": 187,
+    "length": 1,
+    "label": "TIME SINCE LAST DIGITAL RECTAL EXAM"
+  },
+  {
+    "var": "PROSTATE",
+    "start": 188,
+    "length": 1,
+    "label": "EVER TOLD YOU HAD PROSTATE CANCER"
+  },
+  {
+    "var": "BLDSTOOL",
+    "start": 189,
+    "length": 1,
+    "label": "EVER HAD BLOOD STOOL TEST USING HOME KIT"
+  },
+  {
+    "var": "LSTBLDS3",
+    "start": 190,
+    "length": 1,
+    "label": "TIME SINCE LAST BLOOD STOOL TEST"
+  },
+  {
+    "var": "HADSIGM3",
+    "start": 191,
+    "length": 1,
+    "label": "EVER HAD SIGMOIDOSCOPY/COLONOSCOPY"
+  },
+  {
+    "var": "HADSGCO1",
+    "start": 192,
+    "length": 1,
+    "label": "WAS LAST TEST A SIGMOIDOSCOPY OR COLONOS"
+  },
+  {
+    "var": "LASTSIG3",
+    "start": 193,
+    "length": 1,
+    "label": "TIME SINCE LAST SIGMOIDOSCOPY/COLONOSCOP"
+  },
+  {
+    "var": "HIVTST5",
+    "start": 194,
+    "length": 1,
+    "label": "EVER TESTED HIV"
+  },
+  {
+    "var": "HIVTSTD2",
+    "start": 195,
+    "length": 6,
+    "label": "MONTH AND YEAR OF LAST HIV TEST"
+  },
+  {
+    "var": "WHRTST8",
+    "start": 201,
+    "length": 2,
+    "label": "LOCATION OF LAST HIV TEST"
+  },
+  {
+    "var": "HIVRDTST",
+    "start": 203,
+    "length": 1,
+    "label": "WAS YOUR LAST HIV TEST A RAPID TEST?"
+  },
+  {
+    "var": "HIVRISK2",
+    "start": 204,
+    "length": 1,
+    "label": "DO ANY HIGH RISK SITUATIONS APPLY"
+  },
+  {
+    "var": "EMTSUPRT",
+    "start": 205,
+    "length": 1,
+    "label": "HOW OFTEN GET EMOTIONAL SUPPORT NEEDED"
+  },
+  {
+    "var": "LSATISFY",
+    "start": 206,
+    "length": 1,
+    "label": "SATISFACTION WITH LIFE"
+  },
+  {
+    "var": "CPDEMO",
+    "start": 207,
+    "length": 6,
+    "label": "CELL PHONE PILOT DEMOGRAPHIC DATA"
+  },
+  {
+    "var": "CPSCREN",
+    "start": 213,
+    "length": 11,
+    "label": "CELL PHONE PILOT SCREENING DATA"
+  },
+  {
+    "var": "PDIABTST",
+    "start": 227,
+    "length": 1,
+    "label": "HAD A TEST FOR HIGH BLOOD SUGAR IN PAST"
+  },
+  {
+    "var": "PREDIAB",
+    "start": 228,
+    "length": 1,
+    "label": "EVER BEEN TOLD YOU HAVE PRE-DIABETES OR"
+  },
+  {
+    "var": "DIABAGE2",
+    "start": 229,
+    "length": 2,
+    "label": "AGE WHEN TOLD DIABETIC"
+  },
+  {
+    "var": "INSULIN",
+    "start": 231,
+    "length": 1,
+    "label": "NOW TAKING INSULIN"
+  },
+  {
+    "var": "BLDSUGAR",
+    "start": 232,
+    "length": 3,
+    "label": "HOW OFTEN CHECK BLOOD FOR GLUCOSE"
+  },
+  {
+    "var": "FEETCHK2",
+    "start": 235,
+    "length": 3,
+    "label": "HOW OFTEN CHECK FEET FOR SORES OR IRRITA"
+  },
+  {
+    "var": "DOCTDIAB",
+    "start": 238,
+    "length": 2,
+    "label": "TIMES SEEN HEALTH PROFESSIONAL FOR DIABE"
+  },
+  {
+    "var": "CHKHEMO3",
+    "start": 240,
+    "length": 2,
+    "label": "TIMES CHECKED FOR GLYCOSYLATED HEMOGLOBI"
+  },
+  {
+    "var": "FEETCHK",
+    "start": 242,
+    "length": 2,
+    "label": "TIMES FEET CHECK FOR SORES/IRRITATIONS"
+  },
+  {
+    "var": "EYEEXAM",
+    "start": 244,
+    "length": 1,
+    "label": "LAST EYE EXAM WHERE PUPILS WERE DILATED"
+  },
+  {
+    "var": "DIABEYE",
+    "start": 245,
+    "length": 1,
+    "label": "EVER TOLD DIABETES HAS AFFECTED EYES"
+  },
+  {
+    "var": "DIABEDU",
+    "start": 246,
+    "length": 1,
+    "label": "EVER TAKEN CLASS IN MANAGING DIABETES"
+  },
+  {
+    "var": "PAINACT2",
+    "start": 247,
+    "length": 2,
+    "label": "HOW MANY DAYS HARD TO DO USUAL ACTIVITIE"
+  },
+  {
+    "var": "QLMENTL2",
+    "start": 249,
+    "length": 2,
+    "label": "HOW MANY DAYS DEPRESSED IN PAST 30 DAYS"
+  },
+  {
+    "var": "QLSTRES2",
+    "start": 251,
+    "length": 2,
+    "label": "HOW MANY DAYS FELT ANXIOUS IN PAST 30 DA"
+  },
+  {
+    "var": "QLHLTH2",
+    "start": 253,
+    "length": 2,
+    "label": "HOW MANY DAYS FULL OF ENERGY IN PAST 30"
+  },
+  {
+    "var": "VIDFCLT2",
+    "start": 255,
+    "length": 1,
+    "label": "DIFFICULTY RECOGNIZING FRIEND ACROSS STR"
+  },
+  {
+    "var": "VIREDIF2",
+    "start": 256,
+    "length": 1,
+    "label": "DIFFICULTY READING TYPED TEXT"
+  },
+  {
+    "var": "VIPRFVS2",
+    "start": 257,
+    "length": 1,
+    "label": "LAST TIME VISITED EYE CARE PROVIDER"
+  },
+  {
+    "var": "VINOCRE2",
+    "start": 258,
+    "length": 2,
+    "label": "REASON DID NOT USE EYE DOC PAST 12 MOS"
+  },
+  {
+    "var": "VIEYEXM2",
+    "start": 260,
+    "length": 1,
+    "label": "WHEN LAST EYEXAM"
+  },
+  {
+    "var": "VIINSUR2",
+    "start": 261,
+    "length": 1,
+    "label": "EYE CARE HEALTH INSURANCE"
+  },
+  {
+    "var": "VICTRCT2",
+    "start": 262,
+    "length": 1,
+    "label": "HLTH CARE PRO SAID NOW HAVE CATARACTS"
+  },
+  {
+    "var": "VIGLUMA2",
+    "start": 263,
+    "length": 1,
+    "label": "HLTH CARE PRO EVER SAID HAVE GLAUCOMA"
+  },
+  {
+    "var": "VIMACDG2",
+    "start": 264,
+    "length": 1,
+    "label": "HLTH CARE PRO EVER SAID HAVE MACULAR DEG"
+  },
+  {
+    "var": "HRVOLNTR",
+    "start": 265,
+    "length": 1,
+    "label": "CURRENTLY VOLUNTEER OR WORK IN MEDICAL O"
+  },
+  {
+    "var": "HRDIRCAR",
+    "start": 266,
+    "length": 1,
+    "label": "PROVIDE DIRECT PATIENT CARE AS PART OF R"
+  },
+  {
+    "var": "HRCHRNIL",
+    "start": 267,
+    "length": 1,
+    "label": "HAVE YOU BEEN TOLD YOU CHRONIC HEALTH PR"
+  },
+  {
+    "var": "HRSTLHAV",
+    "start": 268,
+    "length": 1,
+    "label": "STILL HAVE CHRONIC ILLNESS?"
+  },
+  {
+    "var": "DRNKBER1",
+    "start": 269,
+    "length": 2,
+    "label": "HOW MANY BEERS CONSUMED WHEN BINGE DRINK"
+  },
+  {
+    "var": "DRNKWIN1",
+    "start": 271,
+    "length": 2,
+    "label": "HOW MANY GLASSES OF WINE CONSUMED WHEN B"
+  },
+  {
+    "var": "DRNKLIQR",
+    "start": 273,
+    "length": 2,
+    "label": "HOW MANY DRINKS OF LIQUOR CONSUMED WHEN"
+  },
+  {
+    "var": "DRNKPMIX",
+    "start": 275,
+    "length": 2,
+    "label": "HOW MANY PRE-MIXED DRINKS CONSUMED WHEN"
+  },
+  {
+    "var": "DRNKLOC1",
+    "start": 277,
+    "length": 1,
+    "label": "WHERE WERE YOU WHEN YOU BINGE DRANK"
+  },
+  {
+    "var": "BINGEDRV",
+    "start": 278,
+    "length": 1,
+    "label": "DRIVE A MOTOR VEHICLE AFTER BINGE DRINKI"
+  },
+  {
+    "var": "BINGEPAY",
+    "start": 279,
+    "length": 3,
+    "label": "HOW MUCH DID YOU PAY FOR THE ALCOHOL YOU"
+  },
+  {
+    "var": "USEEVER3",
+    "start": 282,
+    "length": 1,
+    "label": "EVER USED SMOKELESS TOBACCO PRODUCTS"
+  },
+  {
+    "var": "USENOW3",
+    "start": 283,
+    "length": 1,
+    "label": "USE OF SMOKELESS TOBACCO PRODUCTS"
+  },
+  {
+    "var": "USOTHNW1",
+    "start": 284,
+    "length": 1,
+    "label": "DO YOU CURRENTLY USE ANY TOBACCO PRODUCT"
+  },
+  {
+    "var": "SHSINWRK",
+    "start": 285,
+    "length": 2,
+    "label": "ANYONE SMOKE IN YOUR INDOOR WORKPLACE IN"
+  },
+  {
+    "var": "SHSINHOM",
+    "start": 287,
+    "length": 2,
+    "label": "ANYONE SMOKE IN YOUR HOME IN PAST 7 DAYS"
+  },
+  {
+    "var": "HOUSSMK1",
+    "start": 289,
+    "length": 1,
+    "label": "SMOKING POLICY AT HOME"
+  },
+  {
+    "var": "SHSALOWB",
+    "start": 290,
+    "length": 1,
+    "label": "SHOULD SMOKING BE ALLOWED IN BARS?"
+  },
+  {
+    "var": "SHSALOWR",
+    "start": 291,
+    "length": 1,
+    "label": "SHOULD SMOKING BE ALLOWED IN RESTAURANTS"
+  },
+  {
+    "var": "SHSALOWW",
+    "start": 292,
+    "length": 1,
+    "label": "SHOULD SMOKING BE ALLOWED IN INDOOR WORK"
+  },
+  {
+    "var": "ASTHMAGE",
+    "start": 293,
+    "length": 2,
+    "label": "AGE AT ASTHMA DIAGNOSIS"
+  },
+  {
+    "var": "ASATTACK",
+    "start": 295,
+    "length": 1,
+    "label": "ASTHMA DURING PAST 12 MONTHS"
+  },
+  {
+    "var": "ASERVIST",
+    "start": 296,
+    "length": 2,
+    "label": "EMERGENCY ASTHMA CARE DURING PAST 12 MON"
+  },
+  {
+    "var": "ASDRVIST",
+    "start": 298,
+    "length": 2,
+    "label": "URGENT ASTHMA TREATMENT DURING PAST 12 M"
+  },
+  {
+    "var": "ASRCHKUP",
+    "start": 300,
+    "length": 2,
+    "label": "ROUTINE ASTHMA CARE DURING PAST 12 MONTH"
+  },
+  {
+    "var": "ASACTLIM",
+    "start": 302,
+    "length": 3,
+    "label": "ACTIVITIES LIMITED DUE TO ASTHMA DURING"
+  },
+  {
+    "var": "ASYMPTOM",
+    "start": 305,
+    "length": 1,
+    "label": "ASTHMA SYMPTOMS DURING PAST 30 DAYS"
+  },
+  {
+    "var": "ASNOSLEP",
+    "start": 306,
+    "length": 1,
+    "label": "SLEEP DIFFICULTY DUE TO ASTHMA DURING PA"
+  },
+  {
+    "var": "ASTHMED3",
+    "start": 307,
+    "length": 1,
+    "label": "DAYS USED PRESCRIBED PREVENTATIVE ASTHMA"
+  },
+  {
+    "var": "ASINHALR",
+    "start": 308,
+    "length": 1,
+    "label": "TIMES USED ASTHMA INHALER DURING AN ATTA"
+  },
+  {
+    "var": "HPVADVC",
+    "start": 309,
+    "length": 1,
+    "label": "EVER HAD THE HPV VACCINATION?"
+  },
+  {
+    "var": "HPVADSHT",
+    "start": 310,
+    "length": 2,
+    "label": "NUMBER OF HPV SHOTS RECEIVED"
+  },
+  {
+    "var": "VETSTAT2",
+    "start": 312,
+    "length": 1,
+    "label": "CURRENT VETERAN STATUS"
+  },
+  {
+    "var": "VACARE1",
+    "start": 313,
+    "length": 1,
+    "label": "RECEIVED SOME OR ALL OF YOUR HEALTH CARE"
+  },
+  {
+    "var": "VAIRQAFG",
+    "start": 314,
+    "length": 1,
+    "label": "MILITARY DEPLOYMENT TO AFGHANISTAN OR IR"
+  },
+  {
+    "var": "RRCLASS2",
+    "start": 315,
+    "length": 1,
+    "label": "HOW DO OTHER PEOPLE USUALLY CLASSIFY YOU"
+  },
+  {
+    "var": "RRCOGNT2",
+    "start": 316,
+    "length": 1,
+    "label": "HOW OFTEN DO YOU THINK ABOUT YOUR RACE?"
+  },
+  {
+    "var": "RRATWRK2",
+    "start": 317,
+    "length": 1,
+    "label": "HOW DO YOU FEEL YOU WERE TREATED AT WORK"
+  },
+  {
+    "var": "RRHCARE3",
+    "start": 318,
+    "length": 1,
+    "label": "WHEN SEEKING HEALTH CARE PAST 12 MONTHS,"
+  },
+  {
+    "var": "RRPHYSM2",
+    "start": 319,
+    "length": 1,
+    "label": "TIMES PAST 30 DAYS FELT PHYSICAL SYMPTOM"
+  },
+  {
+    "var": "RREMTSM2",
+    "start": 320,
+    "length": 1,
+    "label": "TIMES PAST 30 DAYS FELT EMOTIONALLY UPSE"
+  },
+  {
+    "var": "ADPLEASR",
+    "start": 321,
+    "length": 2,
+    "label": "DAYS HAD LITTLE PLEASURE DOING THINGS"
+  },
+  {
+    "var": "ADDOWN",
+    "start": 323,
+    "length": 2,
+    "label": "DAYS FELT DOWN, DEPRESSED OR HOPELESS"
+  },
+  {
+    "var": "ADSLEEP",
+    "start": 325,
+    "length": 2,
+    "label": "DAYS HAD TROUBLE WITH SLEEP"
+  },
+  {
+    "var": "ADENERGY",
+    "start": 327,
+    "length": 2,
+    "label": "DAYS WERE TIRED OR HAD LITTLE ENERGY"
+  },
+  {
+    "var": "ADEAT1",
+    "start": 329,
+    "length": 2,
+    "label": "DAYS ATE TOO LITTLE OR TOO MUCH"
+  },
+  {
+    "var": "ADFAIL",
+    "start": 331,
+    "length": 2,
+    "label": "DAYS FELT LIKE FAILURE OR LET FAMILY DOW"
+  },
+  {
+    "var": "ADTHINK",
+    "start": 333,
+    "length": 2,
+    "label": "DAYS HAD TROUBLE CONCENTRATING"
+  },
+  {
+    "var": "ADMOVE",
+    "start": 335,
+    "length": 2,
+    "label": "DAYS TALKED TO MOVE SLOWER OR FASTER THA"
+  },
+  {
+    "var": "ADANXEV",
+    "start": 337,
+    "length": 1,
+    "label": "EVER TOLD YOU HAD AN ANXIETY DISORDER"
+  },
+  {
+    "var": "ADDEPEV",
+    "start": 338,
+    "length": 1,
+    "label": "EVER TOLD YOU HAD A DEPRESSIVE DISORDER"
+  },
+  {
+    "var": "GPWELPR3",
+    "start": 339,
+    "length": 1,
+    "label": "HOUSEHOLD PREPARED TO HANDLE LARGE-SCALE"
+  },
+  {
+    "var": "GP3DYWTR",
+    "start": 340,
+    "length": 1,
+    "label": "DOES YOUR HOUSEHOLD HAVE A 3-DAY SUPPLY"
+  },
+  {
+    "var": "GP3DYFD1",
+    "start": 341,
+    "length": 1,
+    "label": "DOES YOUR HOUSEHOLD HAVE A 3-DAY SUPPLY"
+  },
+  {
+    "var": "GP3DYPRS",
+    "start": 342,
+    "length": 1,
+    "label": "DOES YOUR HOUSEHOLD HAVE A 3-DAY SUPPLY"
+  },
+  {
+    "var": "GPBATRAD",
+    "start": 343,
+    "length": 1,
+    "label": "DOES YOUR HOUSEHOLD HAVE A WORKING BATTE"
+  },
+  {
+    "var": "GPFLSLIT",
+    "start": 344,
+    "length": 1,
+    "label": "DOES YOUR HOUSEHOLD HAVE A WORKING FLASH"
+  },
+  {
+    "var": "GPEMRCM1",
+    "start": 345,
+    "length": 1,
+    "label": "IN A LARGE-SCALE DISASTER OR EMERGENCY,"
+  },
+  {
+    "var": "GPEMRIN1",
+    "start": 346,
+    "length": 1,
+    "label": "WHAT WOULD BE YOUR MAIN METHOD OF GETTIN"
+  },
+  {
+    "var": "GPVACPL1",
+    "start": 347,
+    "length": 1,
+    "label": "DOES YOUR HOUSEHOLD HAVE A DISASTER EVAC"
+  },
+  {
+    "var": "GPMNDEVC",
+    "start": 348,
+    "length": 1,
+    "label": "IF PUBLIC AUTHORITIES ANNOUNCED MANDATOR"
+  },
+  {
+    "var": "GPNOTEV1",
+    "start": 349,
+    "length": 2,
+    "label": "WHAT WOULD BE THE MAIN REASON WHY YOU MI"
+  },
+  {
+    "var": "RCSBIRTH",
+    "start": 366,
+    "length": 6,
+    "label": "BIRTH DATE OF CHILD"
+  },
+  {
+    "var": "RCSGENDR",
+    "start": 372,
+    "length": 1,
+    "label": "GENDER OF CHILD"
+  },
+  {
+    "var": "RCHISLAT",
+    "start": 373,
+    "length": 1,
+    "label": "ETHNICITY OF CHILD"
+  },
+  {
+    "var": "RCSRACE",
+    "start": 374,
+    "length": 6,
+    "label": "RACE OF CHILD (MULTIPLE POSSIBLE)"
+  },
+  {
+    "var": "RCSBRACE",
+    "start": 380,
+    "length": 1,
+    "label": "RACE OF CHILD"
+  },
+  {
+    "var": "RCSRLTN2",
+    "start": 381,
+    "length": 1,
+    "label": "RELATIONSHIP TO CHILD"
+  },
+  {
+    "var": "CASTHDX2",
+    "start": 382,
+    "length": 1,
+    "label": "HLTH PRO EVER SAID CHILD HAS ASTHMA"
+  },
+  {
+    "var": "CASTHNO2",
+    "start": 383,
+    "length": 1,
+    "label": "CHILD STILL HAVE ASTHMA?"
+  },
+  {
+    "var": "HPVCHVC",
+    "start": 384,
+    "length": 1,
+    "label": "CHILD  EVER HAD THE HPV VACCINATION?"
+  },
+  {
+    "var": "HPVCHSHT",
+    "start": 385,
+    "length": 2,
+    "label": "HOW MANY HPV SHOTS DID CHILD RECEIVE?"
+  },
+  {
+    "var": "QSTVER",
+    "start": 741,
+    "length": 1,
+    "label": "QUESTIONNAIRE VERSION IDENTIFIER"
+  },
+  {
+    "var": "QSTLANG",
+    "start": 742,
+    "length": 2,
+    "label": "LANGUAGE IDENTIFIER"
+  },
+  {
+    "var": "CPCOUNTY",
+    "start": 755,
+    "length": 45
+  },
+  {
+    "var": "_STSTR",
+    "start": 754,
+    "length": 5,
+    "label": "SAMPLE DESIGN STRATIFICATION VARIABLE"
+  },
+  {
+    "var": "_STRWT",
+    "start": 759,
+    "length": 10,
+    "label": "STRATUM WEIGHT"
+  },
+  {
+    "var": "_RAW",
+    "start": 769,
+    "length": 10,
+    "label": "RAW WEIGHTING FACTOR"
+  },
+  {
+    "var": "_WT2",
+    "start": 779,
+    "length": 10,
+    "label": "DESIGN WEIGHT"
+  },
+  {
+    "var": "_POSTSTR",
+    "start": 789,
+    "length": 10,
+    "label": "POST-STRATIFICATION WEIGHT"
+  },
+  {
+    "var": "_FINALWT",
+    "start": 799,
+    "length": 10,
+    "label": "FINAL WEIGHT"
+  },
+  {
+    "var": "_REGION",
+    "start": 929,
+    "length": 2,
+    "label": "REGION"
+  },
+  {
+    "var": "_AGEG_",
+    "start": 931,
+    "length": 2,
+    "label": "AGE GROUP CODES USED IN POST-STRATIFICAT"
+  },
+  {
+    "var": "_SEXG_",
+    "start": 933,
+    "length": 1,
+    "label": "GENDER GROUP CODES USED IN POST-STRATIFI"
+  },
+  {
+    "var": "_RACEG3_",
+    "start": 934,
+    "length": 1,
+    "label": "RACE GROUP CODES USED IN POST-STRATIFICA"
+  },
+  {
+    "var": "_IMPAGE",
+    "start": 935,
+    "length": 2,
+    "label": "AGE VALUE USED TO DETERMINE AGE GROUPS"
+  },
+  {
+    "var": "_IMPNPH",
+    "start": 937,
+    "length": 1,
+    "label": "IMPUTED NUMBER OF PHONES"
+  },
+  {
+    "var": "_ITSCF1",
+    "start": 938,
+    "length": 10,
+    "label": "INTERRUPTION IN TELEPHONE SERVICE CORREC"
+  },
+  {
+    "var": "_ITSCF2",
+    "start": 948,
+    "length": 10,
+    "label": "INTERRUPTION IN TELEPHONE SERVICE CORREC"
+  },
+  {
+    "var": "_ITSPOST",
+    "start": 958,
+    "length": 10,
+    "label": "INTERRUPTION IN TELEPHONE SERVICE POST S"
+  },
+  {
+    "var": "_ITSFINL",
+    "start": 968,
+    "length": 10,
+    "label": "INTERRUPTION IN TELEPHONE SERVICE FINAL"
+  },
+  {
+    "var": "MSCODE",
+    "start": 986,
+    "length": 1,
+    "label": "METROPOLITAN STATUS CODE"
+  },
+  {
+    "var": "CRACEORG",
+    "start": 987,
+    "length": 6,
+    "label": "CRACE WITH TRAILING 7, 8, 9S REMOVED"
+  },
+  {
+    "var": "CRACEASC",
+    "start": 993,
+    "length": 6,
+    "label": "CRACEORG WITH RESPONSES IN ASCENDING ORD"
+  },
+  {
+    "var": "_CRACE",
+    "start": 999,
+    "length": 2,
+    "label": "CHILD NON-HISPANIC RACE INCLUDING MULTIR"
+  },
+  {
+    "var": "CHILDAGE",
+    "start": 1001,
+    "length": 3,
+    "label": "CHILD AGE"
+  },
+  {
+    "var": "_CIMPAGE",
+    "start": 1004,
+    "length": 2,
+    "label": "IMPUTED CHILD AGE"
+  },
+  {
+    "var": "_CSEXG_",
+    "start": 1006,
+    "length": 1,
+    "label": "CHILD GENDER GROUP CODES USED IN POST-ST"
+  },
+  {
+    "var": "_CRACEG_",
+    "start": 1007,
+    "length": 1,
+    "label": "CHILD RACE GROUP CODES USED IN POST-STRA"
+  },
+  {
+    "var": "_CAGEG_",
+    "start": 1008,
+    "length": 3,
+    "label": "CHILD AGE GROUP CODES USED IN POST-STRAT"
+  },
+  {
+    "var": "_RAWCH",
+    "start": 1131,
+    "length": 10,
+    "label": "RAW CHILD WEIGHTING FACTOR"
+  },
+  {
+    "var": "_WT2CH",
+    "start": 1141,
+    "length": 10,
+    "label": "CHILD DESIGN WEIGHT"
+  },
+  {
+    "var": "_POSTCH",
+    "start": 1151,
+    "length": 10,
+    "label": "POST-STRATIFICATION CHILD WEIGHT"
+  },
+  {
+    "var": "_CHILDWT",
+    "start": 1161,
+    "length": 10,
+    "label": "FINAL CHILD WEIGHT"
+  },
+  {
+    "var": "_RAWHH",
+    "start": 1171,
+    "length": 10,
+    "label": "RAW HOUSEHOLD  WEIGHTING FACTOR"
+  },
+  {
+    "var": "_WT2HH",
+    "start": 1181,
+    "length": 10,
+    "label": "HOUSEHOLD DESIGN WEIGHT"
+  },
+  {
+    "var": "_POSTHH",
+    "start": 1191,
+    "length": 10,
+    "label": "POST-STRATIFICATION HOUSEHOLD WEIGHT"
+  },
+  {
+    "var": "_HOUSEWT",
+    "start": 1201,
+    "length": 10,
+    "label": "FINAL HOUSEHOLD WEIGHT"
+  },
+  {
+    "var": "_RFHLTH",
+    "start": 1211,
+    "length": 1,
+    "label": "ADULTS WITH GOOD OR BETTER HEALTH"
+  },
+  {
+    "var": "_HCVU65",
+    "start": 1212,
+    "length": 1,
+    "label": "RESPONDENTS AGED 18-64 WITH HEALTH CARE"
+  },
+  {
+    "var": "_TOTINDA",
+    "start": 1213,
+    "length": 1,
+    "label": "LEISURE TIME PHYSICAL ACTIVITY CALCULATE"
+  },
+  {
+    "var": "_EXTETH2",
+    "start": 1214,
+    "length": 1,
+    "label": "RISK FACTOR FOR HAVING HAD PERMANENT TEE"
+  },
+  {
+    "var": "_ALTETH2",
+    "start": 1215,
+    "length": 1,
+    "label": "ADULTS AGED 65+ WHO HAVE HAD ALL THEIR N"
+  },
+  {
+    "var": "_DENVST1",
+    "start": 1216,
+    "length": 1,
+    "label": "ADULTS THAT HAVE VISITED A DENTIST, DENT"
+  },
+  {
+    "var": "_LTASTHM",
+    "start": 1217,
+    "length": 1,
+    "label": "LIFETIME ASTHMA CALCULATED VARIABLE"
+  },
+  {
+    "var": "_CASTHMA",
+    "start": 1218,
+    "length": 1,
+    "label": "CURRENT ASTHMA CALCULATED VARIABLE"
+  },
+  {
+    "var": "_ASTHMST",
+    "start": 1219,
+    "length": 1,
+    "label": "COMPUTED ASTHMA STATUS"
+  },
+  {
+    "var": "_SMOKER3",
+    "start": 1220,
+    "length": 1,
+    "label": "COMPUTED SMOKING STATUS"
+  },
+  {
+    "var": "_RFSMOK3",
+    "start": 1221,
+    "length": 1,
+    "label": "CURRENT SMOKING CALCULATED VARIABLE"
+  },
+  {
+    "var": "MRACEORG",
+    "start": 1222,
+    "length": 6,
+    "label": "MRACE WITH TRAILING 7,8,9S REMOVED CALCU"
+  },
+  {
+    "var": "MRACEASC",
+    "start": 1228,
+    "length": 6,
+    "label": "MRACEORG WITH RESPONSES IN ASCENDING ORD"
+  },
+  {
+    "var": "_PRACE",
+    "start": 1234,
+    "length": 2,
+    "label": "COMPUTED PREFERRED RACE"
+  },
+  {
+    "var": "_MRACE",
+    "start": 1236,
+    "length": 2,
+    "label": "COMPUTED NON-HISPANIC RACE INCLUDING MUL"
+  },
+  {
+    "var": "RACE2",
+    "start": 1238,
+    "length": 1,
+    "label": "COMPUTED RACE-ETHNICITY GROUPING"
+  },
+  {
+    "var": "_RACEG2",
+    "start": 1239,
+    "length": 1,
+    "label": "COMPUTED NON-HISPANIC WHITES/ALL OTHERS"
+  },
+  {
+    "var": "_RACEGR2",
+    "start": 1240,
+    "length": 1,
+    "label": "COMPUTED FIVE LEVEL RACE/ETHNICITY CATEG"
+  },
+  {
+    "var": "_RACE_G",
+    "start": 1241,
+    "length": 1,
+    "label": "COMPUTED RACE GROUPS USED FOR INTERNET P"
+  },
+  {
+    "var": "_CNRACE",
+    "start": 1242,
+    "length": 1,
+    "label": "COMPUTED NUMBER OF CENSUS RACE CATEGORIE"
+  },
+  {
+    "var": "_CNRACEC",
+    "start": 1243,
+    "length": 1,
+    "label": "COMPUTED NUMBER OF CENSUS RACE CATEGORIE"
+  },
+  {
+    "var": "_AGEG5YR",
+    "start": 1244,
+    "length": 2,
+    "label": "REPORTED AGE IN FIVE-YEAR AGE CATEGORIES"
+  },
+  {
+    "var": "_AGE65YR",
+    "start": 1246,
+    "length": 1,
+    "label": "REPORTED AGE IN TWO AGE GROUPS CALCULATE"
+  },
+  {
+    "var": "_AGE_G",
+    "start": 1247,
+    "length": 1,
+    "label": "IMPUTED AGE IN SIX GROUPS"
+  },
+  {
+    "var": "HTIN3",
+    "start": 1248,
+    "length": 3,
+    "label": "COMPUTED HEIGHT IN INCHES"
+  },
+  {
+    "var": "HTM3",
+    "start": 1251,
+    "length": 3,
+    "label": "COMPUTED HEIGHT IN METERS"
+  },
+  {
+    "var": "WTKG2",
+    "start": 1254,
+    "length": 5,
+    "label": "COMPUTED WEIGHT IN KILOGRAMS"
+  },
+  {
+    "var": "_BMI4",
+    "start": 1259,
+    "length": 4,
+    "label": "COMPUTED BODY MASS INDEX"
+  },
+  {
+    "var": "_BMI4CAT",
+    "start": 1263,
+    "length": 1,
+    "label": "COMPUTED BODY MASS INDEX CATEGORIES"
+  },
+  {
+    "var": "_RFBMI4",
+    "start": 1264,
+    "length": 1,
+    "label": "OVERWEIGHT OR OBESE CALCULATED VARIABLE"
+  },
+  {
+    "var": "_CHLDCNT",
+    "start": 1265,
+    "length": 1,
+    "label": "COMPUTED NUMBER OF CHILDREN IN HOUSEHOLD"
+  },
+  {
+    "var": "_EDUCAG",
+    "start": 1266,
+    "length": 1,
+    "label": "COMPUTED LEVEL OF EDUCATION COMPLETED CA"
+  },
+  {
+    "var": "_INCOMG",
+    "start": 1267,
+    "length": 1,
+    "label": "COMPUTED INCOME CATEGORIES"
+  },
+  {
+    "var": "DROCDY2_",
+    "start": 1268,
+    "length": 3,
+    "label": "COMPUTED DRINK-OCCASIONS-PER-DAY"
+  },
+  {
+    "var": "_RFBING4",
+    "start": 1271,
+    "length": 1,
+    "label": "BINGE DRINKING CALCULATED VARIABLE"
+  },
+  {
+    "var": "_DRNKDY3",
+    "start": 1272,
+    "length": 4,
+    "label": "COMPUTED NUMBER OF DRINKS OF ALCOHOL BEV"
+  },
+  {
+    "var": "_DRNKMO3",
+    "start": 1276,
+    "length": 4,
+    "label": "COMPUTED TOTAL NUMBER DRINKS A MONTH"
+  },
+  {
+    "var": "_RFDRHV3",
+    "start": 1280,
+    "length": 1,
+    "label": "HEAVY ALCOHOL CONSUMPTION  CALCULATED VA"
+  },
+  {
+    "var": "_RFDRMN3",
+    "start": 1281,
+    "length": 1,
+    "label": "ADULT MEN HEAVY ALCOHOL CONSUMPTION CALC"
+  },
+  {
+    "var": "_RFDRWM3",
+    "start": 1282,
+    "length": 1,
+    "label": "ADULT WOMEN HEAVY ALCOHOL CONSUMPTION CA"
+  },
+  {
+    "var": "_FLSHOT3",
+    "start": 1283,
+    "length": 1,
+    "label": "FLU SHOT CALCULATED VARIABLE"
+  },
+  {
+    "var": "_PNEUMO2",
+    "start": 1284,
+    "length": 1,
+    "label": "PNEUMONIA VACCINATION CALCULATED VARIABL"
+  },
+  {
+    "var": "_RFSEAT2",
+    "start": 1285,
+    "length": 1,
+    "label": "ALWAYS OR NEARLY ALWAYS WEAR SEAT BELTS"
+  },
+  {
+    "var": "_RFSEAT3",
+    "start": 1286,
+    "length": 1,
+    "label": "ALWAYS WEAR SEAT BELTS"
+  },
+  {
+    "var": "_RFMAM2Y",
+    "start": 1287,
+    "length": 1,
+    "label": "WOMEN RESPONDENTS AGED 40+ THAT HAVE HAD"
+  },
+  {
+    "var": "_MAM502Y",
+    "start": 1288,
+    "length": 1,
+    "label": "WOMEN RESPONDENTS AGED 50+ THAT HAVE HAD"
+  },
+  {
+    "var": "_RFPAP32",
+    "start": 1289,
+    "length": 1,
+    "label": "WOMEN RESPONDENTS AGED 18+ THAT HAVE HAD"
+  },
+  {
+    "var": "_RFPSA2Y",
+    "start": 1290,
+    "length": 1,
+    "label": "MALE RESPONDENTS AGED 40+ THAT HAVE HAD"
+  },
+  {
+    "var": "_RFBLDS2",
+    "start": 1291,
+    "length": 1,
+    "label": "RESPONDENTS AGED 50+ THAT HAVE HAD A BLO"
+  },
+  {
+    "var": "_RFSIGM2",
+    "start": 1292,
+    "length": 1,
+    "label": "RESPONDENTS AGED 50 OR OLDER THAT HAVE H"
+  },
+  {
+    "var": "_AIDTST2",
+    "start": 1293,
+    "length": 1,
+    "label": "EVER BEEN TESTED FOR HIV CALCULATED VARI"
+  }
+]

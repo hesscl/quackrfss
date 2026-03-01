@@ -11,6 +11,14 @@ pip install uv && uv sync
 quackrfss                  # builds brfss.duckdb with 1990–2024 data (~9.5M respondents)
 ```
 
+Or query instantly — no build required:
+
+```python
+import duckdb
+con = duckdb.connect()
+con.sql("SELECT GENHLTH_lbl, COUNT(*) FROM read_parquet('hf://datasets/hesscl/quackrfss/data/BRFSS_2024.parquet') GROUP BY 1 ORDER BY 2 DESC").show()
+```
+
 ---
 
 ## ✨ What it does
@@ -29,6 +37,23 @@ Every categorical variable gets a `*_lbl` companion column baked into the Parque
 ---
 
 ## 🚀 Quickstart
+
+### Query without building
+
+All 35 years of Parquet files are published at [hesscl/quackrfss](https://huggingface.co/datasets/hesscl/quackrfss) on Hugging Face. Query any year directly with DuckDB — no clone, no build, no 2.5 GB download:
+
+```python
+import duckdb
+con = duckdb.connect()
+
+# Single year
+con.sql("SELECT * FROM read_parquet('hf://datasets/hesscl/quackrfss/data/BRFSS_2024.parquet') LIMIT 5").show()
+
+# All years at once
+con.sql("SELECT YEAR, COUNT(*) FROM read_parquet('hf://datasets/hesscl/quackrfss/data/BRFSS_*.parquet') GROUP BY 1 ORDER BY 1").show()
+```
+
+### Build locally
 
 ```bash
 # Install dependencies (Python 3.11+)
@@ -141,7 +166,7 @@ Cross-era comparisons (pre- vs post-2011) require care due to the sampling frame
 | Parquet files (35 years) | ~850 MB |
 | `brfss.duckdb` | < 10 MB (views + metadata only) |
 
-`data/` and `brfss.duckdb` are gitignored — everyone builds from source.
+`data/` and `brfss.duckdb` are gitignored — everyone builds from source. Alternatively, the Parquet files are hosted publicly on [Hugging Face](https://huggingface.co/datasets/hesscl/quackrfss) and can be queried directly without any local build.
 
 ---
 
@@ -199,7 +224,7 @@ from SAS DATA step `sasout` files via regex extraction of embedded comment block
 - [ ] **GitHub Actions CI** — test the pipeline against a single year on each push
 - [ ] **Validation checks** — compare loaded row counts against expected counts in `years.json`
 - [ ] **Example notebooks** — Jupyter notebooks for common analyses (prevalence trends, state maps, weighted estimates)
-- [ ] **Published artifact** — push a pre-built `brfss.duckdb` to a release or HuggingFace dataset so users can skip the build entirely
+- [x] **Published artifact** — Parquet files hosted at [hesscl/quackrfss](https://huggingface.co/datasets/hesscl/quackrfss) on Hugging Face; query any year without building
 
 ---
 

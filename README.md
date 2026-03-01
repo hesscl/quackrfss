@@ -8,7 +8,7 @@ No manual downloads. No SAS. No hours of prep.
 git clone https://github.com/hesscl/quackrfss
 cd quackrfss
 pip install uv && uv sync
-quackrfss                  # builds brfss.duckdb with 2017–2024 data (~3.5M respondents)
+quackrfss                  # builds brfss.duckdb with 1990–2024 data (~9.5M respondents)
 ```
 
 ---
@@ -20,11 +20,11 @@ Downloads CDC [Behavioral Risk Factor Surveillance System (BRFSS)](https://www.c
 | Object | Type | Description |
 |---|---|---|
 | `brfss` | VIEW | All years unified. NULL where a variable was absent in a given year. |
-| `brfss_2024` … `brfss_2017` | VIEW | Per-year views backed directly by Parquet files. |
+| `brfss_2024` … `brfss_1990` | VIEW | Per-year views backed directly by Parquet files. |
 | `variable_labels` | TABLE | `(var, year, label, section)` — human name for each variable. |
 | `value_labels` | TABLE | `(var, year, value, label)` — what each numeric code means. |
 
-Every categorical variable gets a `*_lbl` companion column baked into the Parquet (e.g. `GENHLTH_lbl = 'Good'` alongside `GENHLTH = 2`). The `.duckdb` file is tiny (< 5 MB) — it stores only views and metadata; the Parquet files are the source of truth.
+Every categorical variable gets a `*_lbl` companion column baked into the Parquet (e.g. `GENHLTH_lbl = 'Good'` alongside `GENHLTH = 2`). The `.duckdb` file is tiny (< 10 MB) — it stores only views and metadata; the Parquet files are the source of truth.
 
 ---
 
@@ -80,8 +80,8 @@ D SELECT GENHLTH_lbl, COUNT(*) FROM brfss_2024 GROUP BY 1 ORDER BY 2 DESC;
 ## 🔧 Pipeline stages
 
 ```
-download  →  parse_layout + parse_formats  →  load  →  schema
- (XPT ZIP)    (HTML layouts, SAS formats)    (Parquet)   (DuckDB)
+download  →  parse_layout + parse_formats + parse_sasout  →  load  →  schema
+ (XPT ZIP)    (HTML layouts, SAS formats, sasout files)      (Parquet)   (DuckDB)
 ```
 
 Each stage is idempotent — re-running skips work that's already done unless `--force` is passed.
@@ -89,10 +89,11 @@ Each stage is idempotent — re-running skips work that's already done unless `-
 ```bash
 # Individual stages
 python -m scripts.download       --years 2024
-python -m scripts.parse_layout   --years 2024   # writes metadata/layouts/
-python -m scripts.parse_formats  --years 2024   # writes metadata/labels/
-python -m scripts.load           --years 2024   # writes data/parquet/
-python -m scripts.schema                        # (re)builds brfss.duckdb
+python -m scripts.parse_layout   --years 2024    # writes metadata/layouts/
+python -m scripts.parse_formats  --years 2024    # writes metadata/labels/ (2000+)
+python -m scripts.parse_sasout   --years 1995    # writes metadata/labels/ (1990–1999)
+python -m scripts.load           --years 2024    # writes data/parquet/
+python -m scripts.schema                         # (re)builds brfss.duckdb
 ```
 
 ---
@@ -114,7 +115,10 @@ SELECT DISTINCT var, label FROM variable_labels WHERE lower(label) LIKE '%diabet
 
 ## ⚖️ Survey weights
 
-BRFSS uses complex sampling. For population-level estimates always use `_LLCPWT`:
+BRFSS uses complex sampling. For population-level estimates use the appropriate weight for your year range:
+
+- **2011–2024**: `_LLCPWT` (dual-frame landline + cellphone)
+- **1990–2010**: `_FINALWT` (landline only)
 
 ```python
 df = con.execute("""
@@ -125,15 +129,17 @@ df = con.execute("""
 # Then use a survey-weighted analysis package (e.g. samplics, weightedstats)
 ```
 
+Cross-era comparisons (pre- vs post-2011) require care due to the sampling frame change.
+
 ---
 
 ## 💾 Storage
 
 | Artifact | Approx. size |
 |---|---|
-| Raw XPT ZIPs (8 years) | ~500 MB |
-| Parquet files (8 years) | ~200 MB |
-| `brfss.duckdb` | < 5 MB (views + metadata only) |
+| Raw XPT ZIPs (35 years) | ~2.5 GB |
+| Parquet files (35 years) | ~850 MB |
+| `brfss.duckdb` | < 10 MB (views + metadata only) |
 
 `data/` and `brfss.duckdb` are gitignored — everyone builds from source.
 
@@ -142,8 +148,15 @@ df = con.execute("""
 ## 📝 Notes on specific years
 
 - **2020**: COVID-19 forced telephone-only collection and a lower response rate. The `brfss_2020` view is included; treat cross-year comparisons carefully.
+- **2011**: No variable layout HTML is available from CDC (PDF only). Variable labels are sourced from XPT metadata instead; value labels are unaffected.
+- **2000–2005**: No variable layout HTML available (PDF only). Variable labels come from XPT metadata; value labels from the `.sas` format file.
+- **2006–2010**: Layout HTML exists but has only 3 columns (start position, variable name, field length) — no variable label or section. Labels come from XPT metadata.
+- **1998**: Has a standard PROC FORMAT `.sas` file — value labels are fully parsed.
+- **1990–1997**: Value labels come from SAS DATA step `sasout` files. Three comment styles are handled: `/* */` blocks (1990–1993, 1995–1997), and `* ... *;` star-comment boxes (1994).
+- **1999**: The `SASOUT99.sas` file uses a single multi-variable `LABEL` block with no per-variable value comments. Data loads correctly but without `*_lbl` columns.
 - **Variable drift**: Variables are added and dropped year to year. The unified `brfss` view fills gaps with NULL. Use `variable_labels` to check which years a given variable appears in.
-- **Format files**: 2023–2024 ship `.zip` format archives; 2017–2022 ship raw `.sas` format files. The parser handles both transparently.
+- **Format files**: 2023–2024 ship `.zip` format archives; 2000–2022 ship raw `.sas` format files; 1990–1999 use `sasout` DATA step programs. All are handled transparently.
+- **Dual-frame sampling**: 2011 introduced combined landline + cellphone sampling and the `_LLCPWT` weight. Years 2011–2024 are broadly comparable. Pre-2011 data uses landline-only sampling — cross-era comparisons require care.
 
 ---
 
@@ -165,32 +178,19 @@ Dev extras (for notebooks): `uv sync --extra dev`
 
 ## 🗺️ Roadmap
 
-### Phase 1 — 2011–2016 (next up)
+### Phase 1 — 2011–2024 ✅ Done
 
-BRFSS introduced landline + cellphone dual-frame sampling in 2011, making these years broadly comparable to 2017–2024. The file structure is similar but untested:
+Covers the dual-frame (landline + cellphone) era with `_LLCPWT` weighting.
 
-- [ ] Add `years.json` entries for 2011–2016 with verified CDC URLs
-- [ ] Audit `parse_layout` against the older one-column HTML format (likely identical)
-- [ ] Audit `parse_formats` against older `.sas` format files
-- [ ] Verify XPT column naming consistency with post-2017 data
-- [ ] Update `_quackrfss_meta` notes for any methodological differences
+### Phase 2 — 2000–2010 ✅ Done
 
-### Phase 2 — 2000–2010 (pre-cellphone era)
+Landline-only era with `_FINALWT` weighting. All 11 years in the manifest.
 
-Before 2011, BRFSS was landline-only and used a different weighting methodology (`_FINALWT` instead of `_LLCPWT`). Cross-era comparisons require care:
+### Phase 3 — 1990–1999 ✅ Done
 
-- [ ] Map pre-2011 CDC URL patterns into `years.json`
-- [ ] Handle `_FINALWT` vs `_LLCPWT` weighting differences in documentation
-- [ ] Add year-level notes to `_quackrfss_meta` flagging the methodology break
-- [ ] Test HTML layout parser against 2000s-era layout pages (may need a second parser path)
-
-### Phase 3 — 1984–1999 (early BRFSS)
-
-The early years used SAS data step files rather than XPT and have very different variable sets. This phase requires the most new engineering:
-
-- [ ] Investigate whether pre-2000 data is available as XPT or requires a different ingest path
-- [ ] Handle significantly smaller variable sets (< 50 core variables for earliest years)
-- [ ] Document the scope of cross-decade comparability in the README
+Early BRFSS with `_FINALWT` weighting and smaller variable sets. Value labels parsed
+from SAS DATA step `sasout` files via regex extraction of embedded comment blocks.
+1998 has a proper PROC FORMAT file and is fully labelled.
 
 ### Other improvements
 

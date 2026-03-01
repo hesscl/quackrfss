@@ -1,7 +1,5 @@
 ---
-license: other
-license_name: us-government-works
-license_link: https://www.usa.gov/government-copyright
+license: mit
 language:
 - en
 tags:
@@ -122,7 +120,7 @@ This dataset was built using [quackrfss](https://github.com/hesscl/quackrfss), w
 
 ## 📄 License
 
-BRFSS data is produced by the US Centers for Disease Control and Prevention and is in the public domain as a work of the US federal government. Pipeline code is MIT licensed.
+BRFSS data is produced by the US Centers for Disease Control and Prevention and is in the public domain as a work of the US federal government. Pipeline code is [MIT licensed](https://github.com/hesscl/quackrfss/blob/main/LICENSE).
 
 ---
 

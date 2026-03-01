@@ -8,7 +8,7 @@ No manual downloads. No SAS. No hours of prep.
 git clone https://github.com/hesscl/quackrfss
 cd quackrfss
 pip install uv && uv sync
-quackrfss                  # builds brfss.duckdb with 1990–2024 data (~9.5M respondents)
+quackrfss                  # builds brfss.duckdb with 1990–2024 data (~10.1M respondents)
 ```
 
 Or query instantly — no build required:
@@ -230,4 +230,4 @@ from SAS DATA step `sasout` files via regex extraction of embedded comment block
 
 ## 📄 License
 
-Pipeline code: MIT. BRFSS data is public domain (CDC / US Government).
+Pipeline code: [MIT](LICENSE). BRFSS data is public domain (CDC / US Government).

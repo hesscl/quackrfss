@@ -21,7 +21,7 @@ task_categories:
 - tabular-regression
 ---
 
-# BRFSS 1990–2024
+# 🦆 BRFSS 1990–2024
 
 Behavioral Risk Factor Surveillance System (BRFSS) survey microdata for all 35 years of publicly available data (1990–2024), converted from CDC SAS Transport (XPT) format to Parquet. ~10.1 million respondents.
 
@@ -29,7 +29,7 @@ Behavioral Risk Factor Surveillance System (BRFSS) survey microdata for all 35 y
 
 ---
 
-## Quick start
+## 🚀 Quick start
 
 No account, no download, no build. Just DuckDB:
 
@@ -65,7 +65,7 @@ df = con.sql("""
 
 ---
 
-## Dataset structure
+## 📦 Dataset structure
 
 ### Files
 
@@ -102,7 +102,7 @@ Variable sets differ across years (BRFSS adds and drops questions). Columns abse
 
 ---
 
-## Comparability notes
+## ⚠️ Comparability notes
 
 - **2011 methodology change**: BRFSS introduced combined landline + cellphone sampling in 2011 and a new weighting methodology (`_LLCPWT`). Pre- and post-2011 data are not directly comparable without adjustment.
 - **2020**: COVID-19 forced telephone-only collection and reduced response rates.
@@ -111,7 +111,7 @@ Variable sets differ across years (BRFSS adds and drops questions). Columns abse
 
 ---
 
-## Source data
+## 🔬 Source data
 
 BRFSS data is collected annually by state health departments in collaboration with CDC. Raw XPT files are published at:
 [https://www.cdc.gov/brfss/annual_data/annual_data.htm](https://www.cdc.gov/brfss/annual_data/annual_data.htm)
@@ -120,13 +120,13 @@ This dataset was built using [quackrfss](https://github.com/hesscl/quackrfss), w
 
 ---
 
-## License
+## 📄 License
 
 BRFSS data is produced by the US Centers for Disease Control and Prevention and is in the public domain as a work of the US federal government. Pipeline code is MIT licensed.
 
 ---
 
-## Citation
+## 📝 Citation
 
 If you use this dataset, please cite the CDC BRFSS program:
 
